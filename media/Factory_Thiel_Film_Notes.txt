@@ -1,0 +1,53 @@
+THE FACTORY — A FUTURE WORTH BUILDING
+
+Final cut: Factory_Thiel_Future_Builders.mp4
+39.25 seconds / 1080 × 1350 / 24 fps / H.264 / AAC stereo
+
+EDIT
+0.00–4.25   Authentic Peter Thiel opening from the earlier Zero to One edit.
+4.25–8.25   A future worth building starts with learning how.
+8.25–13.25  Robot-arm trigonometry animation.
+13.25–18.25 Rover route-planning animation.
+18.25–23.25 Control-response animation.
+23.25–29.25 Real captures of the live Factory website and project library.
+29.25–33.25 Workbench-to-orbit concept-art montage.
+33.25–39.25 Invitation, feature counts and readable website link.
+
+SPEECH
+“But most of all, I am proud to be an American.”
+Peter Thiel, 2016 Republican National Convention, July 21, 2016.
+Source: PBS NewsHour. Original speech time 04:35.000–04:39.250.
+The excerpt is continuous; voice and words are unchanged. The subsequent
+Factory copy is creator-written. No affiliation or endorsement is claimed.
+The complete original picture, including the PBS watermark, remains visible.
+
+MUSIC
+Carpenter Brut — Escape From Midwich Valley.
+Uses the existing local purchased FLAC from the user's earlier edit.
+Quiet introduction: source 280 seconds onward. Main body: source 10 seconds
+onward continuously. The earlier edit's intentional silence was removed.
+Separate dialogue, subdued original transition effects and final music fade.
+Prior source notes contain no documented public synchronization/reuse grant
+for the music or PBS recording. This file is not represented as rights-cleared.
+
+VISUALS
+Original Factory animations and previously generated concept artwork.
+Concept art is labeled. Website captures are actual browser screenshots.
+No personal notes, private course records or account details appear.
+The earlier 25-second video and all source media remain intact.
+
+VERIFICATION
+942 frames decoded successfully; no detected black segments.
+Audio integrated loudness: -16.02 LUFS. True peak: -5.51 dBTP.
+No silence segments at the -55 dB, 0.25-second check threshold.
+Final file: 9,125,798 bytes.
+SHA-256: a52b4bdbca1db689defd97144bf21562557366a36c5327222a01f6b4829bbd9b
+Visual review checked attribution, text fit, site footage and final CTA.
+
+OTHER FILES
+Factory_Thiel_Future_Builders.srt — subtitles and descriptive screen text.
+Factory_Thiel_X_Post.txt — launch caption.
+Factory_Thiel_Film_Cover.png — final invitation image.
+Factory_Thiel_Film_Storyboard.jpg — review contact sheet.
+
+Production scripts and measurements remain in work/factory-film.

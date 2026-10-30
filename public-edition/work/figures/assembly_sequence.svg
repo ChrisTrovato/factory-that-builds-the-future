@@ -1,0 +1,69 @@
+<svg width="424" height="230" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 230" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Guide before you retain</title>
+	<desc>Original conceptual assembly sequence. Retention and positioning serve different functions.</desc>
+	<clipPath id="clip-assembly_sequence">
+		<rect x="0" y="0" width="424" height="230"/>
+	</clipPath>
+	<g id="group-assembly_sequence" transform="scale(1,-1) translate(0,-230)" style="clip-path: url(#clip-assembly_sequence)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="230" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<text x="16" y="207" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,414) scale(1,-1)">01 / GUIDE</text>
+			<polygon points="19 77, 101 77, 125 112, 43 112" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="19 77, 101 77, 101 68, 19 68" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="101 77, 125 112, 125 103, 101 68" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="47.0" cy="93.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="73.0" cy="93.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="59.0" cy="98.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="85.0" cy="98.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<polygon points="28 135, 92 135, 116 160, 52 160" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="28 135, 92 135, 92 126, 28 126" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="92 135, 116 160, 116 151, 92 126" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="56.0" cy="151.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="64.0" cy="151.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="68.0" cy="146.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="76.0" cy="146.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<path d="M 68,164 L 68,125 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="68 125, 70.39713 129.3879, 65.60287 129.3879" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="16" y="46.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,92) scale(1,-1)">Alignment enters before</text>
+			<text x="16" y="34.3" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,68) scale(1,-1)">connector.</text>
+			<text x="154" y="207" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,414) scale(1,-1)">02 / SEAT</text>
+			<polygon points="157 77, 239 77, 263 112, 181 112" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="157 77, 239 77, 239 68, 157 68" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="239 77, 263 112, 263 103, 239 68" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="185.0" cy="93.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="211.0" cy="93.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="197.0" cy="98.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="223.0" cy="98.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<polygon points="166 118, 230 118, 254 143, 190 143" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="166 118, 230 118, 230 109, 166 109" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="230 118, 254 143, 254 134, 230 109" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="194.0" cy="134.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="202.0" cy="134.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="206.0" cy="129.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="214.0" cy="129.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<path d="M 206,147 L 206,115 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="206 115, 208.3971 119.3879, 203.6029 119.3879" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="154" y="46.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,92) scale(1,-1)">Confirm interface seating</text>
+			<text x="154" y="34.3" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,68) scale(1,-1)">without forcing.</text>
+			<text x="292" y="207" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,414) scale(1,-1)">03 / RETAIN</text>
+			<polygon points="295 77, 377 77, 401 112, 319 112" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="295 77, 377 77, 377 68, 295 68" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="377 77, 401 112, 401 103, 377 68" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="323.0" cy="93.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="349.0" cy="93.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="335.0" cy="98.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="361.0" cy="98.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<polygon points="304 101, 368 101, 392 126, 328 126" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="304 101, 368 101, 368 92, 304 92" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="368 101, 392 126, 392 117, 368 92" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="332.0" cy="117.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="340.0" cy="117.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="344.0" cy="112.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="352.0" cy="112.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<path d="M 344,130 L 344,105 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="344 105, 346.3971 109.3879, 341.6029 109.3879" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="292" y="46.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,92) scale(1,-1)">Secure, inspect and</text>
+			<text x="292" y="34.3" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,68) scale(1,-1)">function-test.</text>
+		</g>
+	</g>
+</svg>

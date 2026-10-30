@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none" role="img" aria-labelledby="yard-title yard-desc">
+  <title id="yard-title">MERIDIAN / O — a shipyard with no floor</title>
+  <desc id="yard-desc">An original fictional orbital shipyard concept. Two articulated robot arms work on a partly assembled modular truss above an isometric service platform. A rail gantry, solar wings, restrained spare modules and inspection instruments surround the work. A ringed planetary horizon curves through the star field. This is a conceptual illustration, not flight hardware.</desc>
+  <defs>
+    <linearGradient id="deck" x1="397" y1="350" x2="778" y2="797" gradientUnits="userSpaceOnUse"><stop stop-color="#254044"/><stop offset=".54" stop-color="#142a30"/><stop offset="1" stop-color="#0d2027"/></linearGradient>
+    <linearGradient id="edge" x1="400" y1="600" x2="700" y2="820" gradientUnits="userSpaceOnUse"><stop stop-color="#324e50"/><stop offset="1" stop-color="#12252d"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d0d8cd"/><stop offset=".36" stop-color="#8faeaa"/><stop offset="1" stop-color="#3c6267"/></linearGradient>
+    <linearGradient id="arm" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6e6d9"/><stop offset=".45" stop-color="#acbdb3"/><stop offset="1" stop-color="#638187"/></linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2be8e"/><stop offset=".5" stop-color="#e69766"/><stop offset="1" stop-color="#8b4f3a"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#203e48"/><stop offset="1" stop-color="#10212b"/></linearGradient>
+    <linearGradient id="planet" x1="821" y1="0" x2="1097" y2="334" gradientUnits="userSpaceOnUse"><stop stop-color="#76a99b" stop-opacity=".09"/><stop offset=".62" stop-color="#7fa6a6" stop-opacity=".045"/><stop offset="1" stop-color="#76a99b" stop-opacity="0"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#426b66" stop-opacity=".19"/><stop offset="1" stop-color="#426b66" stop-opacity="0"/></radialGradient>
+    <radialGradient id="light"><stop stop-color="#b6e6cd" stop-opacity=".9"/><stop offset=".3" stop-color="#76a99b" stop-opacity=".25"/><stop offset="1" stop-color="#76a99b" stop-opacity="0"/></radialGradient>
+    <pattern id="stars" width="207" height="179" patternUnits="userSpaceOnUse">
+      <circle cx="19" cy="39" r="1" fill="#8eaca9" opacity=".38"/><circle cx="113" cy="115" r=".8" fill="#ece7dc" opacity=".42"/>
+      <circle cx="174" cy="22" r="1.3" fill="#ece7dc" opacity=".48"/><circle cx="66" cy="152" r=".7" fill="#76a99b" opacity=".45"/>
+      <circle cx="187" cy="159" r=".6" fill="#e69766" opacity=".6"/>
+    </pattern>
+    <pattern id="cells" width="30" height="30" patternUnits="userSpaceOnUse">
+      <rect x="2" y="2" width="26" height="26" rx="1" fill="#19333f" stroke="#5a8087" stroke-width=".8"/>
+      <path d="M7 3v24M15 3v24M23 3v24" stroke="#4a6c78" stroke-width=".55" opacity=".65"/>
+      <path d="M3 15h24" stroke="#85a9ab" stroke-width=".5" opacity=".48"/>
+    </pattern>
+    <pattern id="deck-hatch" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(28)"><path d="M0 0v16" stroke="#7fa6a6" stroke-width="1" opacity=".12"/></pattern>
+    <filter id="beacon-glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="4"/></filter>
+    <clipPath id="scene"><rect x="0" y="0" width="1200" height="900"/></clipPath>
+    <g id="bolt"><circle r="3" fill="#0a171d" stroke="#91ada9" stroke-width="1"/><path d="M-1.3 0h2.6" stroke="#9cb7ae" stroke-width=".8"/></g>
+    <g id="node"><circle r="4.5" fill="#142c31" stroke="#e69766" stroke-width="1.4"/><circle r="1.3" fill="#e69766"/></g>
+    <g id="truss-ring">
+      <path d="M0 0 90 43V121L0 78Z" fill="#183139" fill-opacity=".12" stroke="#2b4d54" stroke-width="12" stroke-linejoin="round"/>
+      <path d="M0 0 90 43V121L0 78Z" stroke="#9eb9b2" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M0 0v78M90 43v78" stroke="#d1d7c9" stroke-width="2"/>
+      <path d="M0 0 90 121M90 43 0 78" stroke="#43686b" stroke-width="3"/>
+      <use href="#node"/><use href="#node" x="90" y="43"/><use href="#node" x="90" y="121"/><use href="#node" y="78"/>
+    </g>
+    <g id="stowed-module">
+      <path d="m0 0 53-23 54 26-53 23Z" fill="#527474" stroke="#9ab4ab" stroke-width="1.6"/>
+      <path d="m0 0 54 26v35L0 35Z" fill="#29484e" stroke="#65888a" stroke-width="1.6"/>
+      <path d="m54 26 53-23v35L54 61Z" fill="#18343d" stroke="#65888a" stroke-width="1.6"/>
+      <path d="m9 8 35 17v22L9 30ZM64 28l33-14v18L64 46Z" stroke="#7fa6a6" stroke-width="1.5"/>
+      <path d="m21-5 54 26M35-11l54 26M8 37v8l46 23 48-21v-9" stroke="#d3a077" stroke-width="2"/>
+      <use href="#bolt" x="8" y="6"/><use href="#bolt" x="47" y="25"/><use href="#bolt" x="61" y="29"/><use href="#bolt" x="99" y="12"/>
+    </g>
+    <g id="deck-port"><ellipse rx="13" ry="6" fill="#091c23" stroke="#60848a" stroke-width="1.3"/><ellipse rx="5" ry="2.3" stroke="#a0b7ac" stroke-width="1"/><path d="M-18 0h5M13 0h5M0-9v3M0 6v3" stroke="#60848a" stroke-width="1"/></g>
+  </defs>
+  <style>
+    .beacon{animation:beacon 4.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .beacon-delay{animation-delay:2.25s}
+    .orbital-arc{animation:orbital-dash 48s linear infinite}
+    @keyframes beacon{0%,100%{opacity:.5}50%{opacity:1}}
+    @keyframes orbital-dash{to{stroke-dashoffset:-240}}
+    @media(prefers-reduced-motion:reduce){.beacon,.orbital-arc{animation:none}}
+  </style>
+  <g clip-path="url(#scene)">
+    <!-- A transparent sky: the site supplies its midnight background. -->
+    <ellipse cx="663" cy="481" rx="540" ry="386" fill="url(#halo)"/>
+    <path d="M259 33H1200V551H259Z" fill="url(#stars)"/>
+    <path d="M682 0c-15 51-10 109 14 158 38 77 108 133 194 147 110 19 223-31 282-119 12-18 21-37 28-57V0Z" fill="url(#planet)"/>
+    <path d="M682 0c-15 51-10 109 14 158 38 77 108 133 194 147 110 19 223-31 282-119 12-18 21-37 28-57" stroke="#7fa6a6" stroke-opacity=".26" stroke-width="1.4"/>
+    <path d="M700 0c-20 68-3 137 45 195 57 69 144 106 231 91" stroke="#7fa6a6" stroke-opacity=".1" stroke-width="1"/>
+    <ellipse cx="947" cy="146" rx="356" ry="68" transform="rotate(-22 947 146)" stroke="#7fa6a6" stroke-opacity=".22" stroke-width="1.2"/>
+    <ellipse cx="947" cy="146" rx="369" ry="76" transform="rotate(-22 947 146)" stroke="#76a99b" stroke-opacity=".11" stroke-width="4"/>
+    <path class="orbital-arc" d="M483 128c126-111 413-144 631-67" stroke="#76a99b" stroke-opacity=".28" stroke-width="1.2" stroke-dasharray="4 12"/>
+    <path d="M604 118h14M611 111v14M1031 191h10M1036 186v10M316 204h8M320 200v8" stroke="#a2b9ad" stroke-opacity=".55" stroke-width="1"/>
+    <circle cx="749" cy="112" r="2" fill="#ece7dc" opacity=".6"/>
+
+    <!-- Solar wing, on its own articulated support. -->
+    <path d="m341 446 69 34 58-24" stroke="#0a171d" stroke-width="17" stroke-linejoin="round"/>
+    <path d="m341 446 69 34 58-24" stroke="#57797c" stroke-width="9" stroke-linejoin="round"/>
+    <path d="m341 443 69 34 58-24" stroke="#b7c6b7" stroke-width="2"/>
+    <g transform="matrix(.94 -.407 .65 .31 101 396)">
+      <rect x="-5" y="-5" width="280" height="245" fill="#132832" stroke="#7fa6a6" stroke-width="3"/>
+      <rect width="270" height="240" fill="url(#cells)"/>
+      <path d="M90 0v240M180 0v240M0 120h270" stroke="#b2c3b7" stroke-width="3"/>
+      <path d="M0 0h270v240H0Z" stroke="#91b5b4" stroke-width="2"/>
+      <path d="M-5 77h280M-5 163h280" stroke="#203b42" stroke-width="4"/>
+    </g>
+    <path d="m111 394 248-108" stroke="#c4d0be" stroke-width="2" opacity=".8"/>
+    <circle cx="408" cy="478" r="9" fill="#e69766" stroke="#142832" stroke-width="3"/>
+
+    <!-- Service deck: deep edge, tiled work surface and protected umbilicals. -->
+    <path d="m163 560 507-220 445 217v39L608 818 163 600Z" fill="url(#edge)" stroke="#42676e" stroke-width="2"/>
+    <path d="m163 560 507-220 445 217-507 221Z" fill="url(#deck)" stroke="#7fa6a6" stroke-width="2.4"/>
+    <path d="m608 778 507-221v39L608 818Z" fill="#10252e" stroke="#41656c" stroke-width="1.6"/>
+    <path d="m163 560 445 218v40L163 600Z" fill="#233d45" stroke="#62838a" stroke-width="1.6"/>
+    <path d="m182 562 488-211 424 207-487 211Z" stroke="#486b70" stroke-width="1"/>
+    <path d="m242 599 505-220M328 640l505-220M414 682l505-220M500 724l505-220M254 521l443 217M356 477l443 217M458 433l443 217M560 389l443 217" stroke="#6d9696" stroke-opacity=".2" stroke-width="1"/>
+    <path d="m182 562 488-211 424 207-487 211Z" fill="url(#deck-hatch)"/>
+    <path d="m197 578 411 200 472-205" stroke="#94aca3" stroke-width="2" stroke-dasharray="10 7" opacity=".58"/>
+    <path d="m607 790 481-209M176 581l418 204" stroke="#e69766" stroke-width="2" opacity=".7"/>
+    <path d="m632 801 61-26M716 765l61-26M800 728l61-26M884 692l61-26M968 655l61-26" stroke="#5c7f84" stroke-width="3"/>
+    <path d="m188 584 58 28M270 624l58 28M352 664l58 28M434 704l58 28M516 744l58 28" stroke="#a5b9af" stroke-opacity=".45" stroke-width="2"/>
+    <use href="#deck-port" x="252" y="557"/><use href="#deck-port" x="547" y="730"/><use href="#deck-port" x="949" y="568"/><use href="#deck-port" x="718" y="676"/>
+    <path d="m302 569 133 64 116-50 176 86 219-95" stroke="#092028" stroke-width="10" stroke-linejoin="round"/>
+    <path d="m302 569 133 64 116-50 176 86 219-95" stroke="#76a99b" stroke-opacity=".65" stroke-width="2" stroke-dasharray="6 5"/>
+    <path d="m310 567 125 59 116-50 176 86 215-93" stroke="#e69766" stroke-opacity=".5" stroke-width="1.2"/>
+
+    <!-- Back rail gantry: a structure with depth and a moving tool carriage. -->
+    <path d="m230 548 36 17 36-16-36-17Z" fill="#12252d" stroke="#7fa6a6" stroke-width="1.5"/>
+    <path d="m644 367 36 17 36-16-36-17Z" fill="#12252d" stroke="#7fa6a6" stroke-width="1.5"/>
+    <path d="M250 546V372l16 8v173ZM665 366V191l16 8v174Z" fill="#23424b" stroke="#7fa6a6" stroke-width="2"/>
+    <path d="M266 553V380l15-7v174ZM681 373V199l15-7v174Z" fill="#122c35" stroke="#547b82" stroke-width="1.5"/>
+    <path d="M258 530V391M673 350V210" stroke="#d6d8c6" stroke-width="2"/>
+    <path d="m244 372 422-184 32 16-422 184Z" fill="#638787" stroke="#adbfaf" stroke-width="2"/>
+    <path d="m244 372 32 16v23l-32-16Z" fill="#2a4b54" stroke="#7fa6a6" stroke-width="1.5"/>
+    <path d="m276 388 422-184v23L276 411Z" fill="#18333e" stroke="#7fa6a6" stroke-width="1.8"/>
+    <path d="m289 398 398-173" stroke="#e69766" stroke-width="2"/>
+    <path d="m290 391 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12 14-25 16 12" stroke="#476b73" stroke-width="1.3"/>
+    <path d="m468 282 39-17 29 14-39 17Z" fill="#d1d5c5" stroke="#152e35" stroke-width="2"/>
+    <path d="m468 282 29 14v30l-29-14ZM497 296l39-17v30l-39 17Z" fill="#3f6166" stroke="#99b4ad" stroke-width="1.8"/>
+    <path d="M505 320v54l24 12" stroke="#8ea9a4" stroke-width="5"/>
+    <path d="m519 385 13 6 16-7v-11l-13-6-16 7Z" fill="#10272f" stroke="#84a8a6" stroke-width="2"/>
+    <circle class="beacon" cx="527" cy="381" r="3" fill="#a4dbc3"/>
+    <path d="M254 418h12M254 458h12M254 498h12M669 236h12M669 276h12M669 316h12" stroke="#b3bfb0" stroke-width="2"/>
+
+    <!-- Restrained magazines and a small utilities cabinet. -->
+    <g transform="translate(350 540)"><use href="#stowed-module"/><use href="#stowed-module" x="12" y="-43"/></g>
+    <path d="m340 574 73 35 71-31M342 578v13l72 35 72-32v-13" stroke="#9a8c73" stroke-width="3"/>
+    <path d="m925 503 57-25 62 30v67l-57 25-62-30Z" fill="#18353d" stroke="#6a9295" stroke-width="2"/>
+    <path d="m925 503 62 30 57-25-62-30Z" fill="#38595d" stroke="#7fa6a6" stroke-width="1.6"/>
+    <path d="M987 533v67M933 518l46 22v43l-46-22Z" stroke="#7fa6a6" stroke-width="1.5"/>
+    <path d="m943 534 27 13M943 542l27 13M943 550l27 13" stroke="#0a171d" stroke-width="3"/>
+    <path d="m997 543 35-15v25l-35 15Z" fill="#0b2229" stroke="#7fa6a6" stroke-width="1.5"/>
+    <circle class="beacon beacon-delay" cx="1008" cy="544" r="3" fill="#b1dbc1"/>
+    <circle cx="1020" cy="539" r="2" fill="#e69766"/>
+    <path d="m515 647 94-41 92 45-94 41Z" fill="#1a353c" stroke="#6d9291" stroke-width="1.5"/>
+    <path d="m528 648 81-35 78 38-81 35Z" stroke="#e69766" stroke-width="1" stroke-dasharray="5 4"/>
+    <path d="m551 651 58-25 55 27-58 25Z" fill="#334e50" stroke="#a9b8a8" stroke-width="1.5"/>
+    <path d="m566 649 42-18 42 20-42 18Z" fill="#10232c" stroke="#6d9291" stroke-width="1.5"/>
+    <path d="m582 649 27-12 25 12-26 12Z" stroke="#e69766" stroke-width="2"/>
+
+    <!-- Two restrained supports under the suspended assembly. -->
+    <path d="m520 558 31 15 33-14-31-15Z" fill="#10252e" stroke="#789c9b" stroke-width="1.5"/>
+    <path d="M544 558v-58l15 7v58M544 515l-28 12M559 522l25 12" stroke="#668b8d" stroke-width="6"/>
+    <path d="m791 439 31 15 33-14-31-15Z" fill="#10252e" stroke="#789c9b" stroke-width="1.5"/>
+    <path d="M815 439v-58l15 7v58M815 396l-28 12M830 403l25 12" stroke="#668b8d" stroke-width="6"/>
+
+    <!-- Main modular truss: opaque top planes, deep face, cross braces, service nodes. -->
+    <path d="m452 420 400-172 90 43-400 172Z" fill="#436265" fill-opacity=".55" stroke="#5f8588" stroke-width="2"/>
+    <path d="m542 463 400-172v78L542 541Z" fill="#0d252e" fill-opacity=".74" stroke="#799e9f" stroke-width="2"/>
+    <path d="m452 498 400-172 90 43-400 172Z" fill="#18363e" fill-opacity=".5" stroke="#416b73" stroke-width="2"/>
+    <path d="m452 420 400-172M542 463l400-172M542 541l400-172M452 498l400-172" stroke="#203e48" stroke-width="13"/>
+    <path d="m452 420 400-172M542 463l400-172M542 541l400-172M452 498l400-172" stroke="#96b3ab" stroke-width="5"/>
+    <path d="m453 417 400-172M544 460l400-172" stroke="#d5d9ca" stroke-width="1.6"/>
+    <path d="m542 463 100 35-100 43 100-121 100 35-100 43 100-121 100 35-100 43 100-121 100 35" stroke="#709997" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="m452 420 190 0-90-43 190 0-90-43 190 0-90-43 190 0" stroke="#668c8b" stroke-width="3" stroke-linejoin="round"/>
+    <use href="#truss-ring" x="452" y="420"/><use href="#truss-ring" x="552" y="377"/><use href="#truss-ring" x="652" y="334"/><use href="#truss-ring" x="752" y="291"/><use href="#truss-ring" x="852" y="248"/>
+    <path d="m867 255 69 33v65l-69-33Z" fill="#102731" fill-opacity=".7" stroke="#bfbe9e" stroke-width="2"/>
+    <path d="m874 263 55 26v48l-55-26Z" stroke="#628c8d" stroke-width="1.5"/>
+    <path d="m874 263 55 74M929 289l-55 22" stroke="#527c81" stroke-width="1.8"/>
+    <circle cx="903" cy="299" r="10" fill="#19343c" stroke="#e69766" stroke-width="2"/>
+    <circle cx="903" cy="299" r="4" fill="#e69766"/>
+    <!-- The incomplete bay is a proposal, rendered as a wireframe. -->
+    <path d="m852 248 90-39 90 43v78l-90 39M942 291l90-39M852 326l90-39 90 43M942 209v78M942 209l90 121M1032 252l-90 35" stroke="#7fa6a6" stroke-width="1.5" stroke-opacity=".55" stroke-dasharray="6 6"/>
+    <use href="#node" x="942" y="209"/><use href="#node" x="1032" y="252"/><use href="#node" x="1032" y="330"/>
+    <path d="m951 215 74 35M1037 259v59" stroke="#e69766" stroke-width="2" stroke-opacity=".65"/>
+
+    <!-- Left service arm: broad structural links with offset silhouettes. -->
+    <ellipse cx="422" cy="625" rx="69" ry="28" fill="#071a22" opacity=".7"/>
+    <path d="m373 596 47-20 48 23v31l-47 21-48-24Z" fill="#23444c" stroke="#769b9a" stroke-width="2"/>
+    <ellipse cx="421" cy="597" rx="48" ry="22" fill="#536e6b" stroke="#abc0b0" stroke-width="2"/>
+    <ellipse cx="421" cy="596" rx="31" ry="14" fill="#15343d" stroke="#e69766" stroke-width="3"/>
+    <path d="M420 593v-45l-53-78 99-56" stroke="#071d25" stroke-width="43" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M420 590v-42l-53-78 99-56" stroke="url(#arm)" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m410 579 1-27-54-82 105-60" stroke="#d6ddcd" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m432 580 0-39-47-70 82-43" stroke="#3c6066" stroke-width="5" stroke-linecap="round"/>
+    <path d="M433 594v-47l-43-72 80-41" stroke="#152e38" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="420" cy="548" r="26" fill="#16313b" stroke="#a7b6a4" stroke-width="2"/>
+    <circle cx="420" cy="548" r="17" fill="url(#copper)" stroke="#5c4032" stroke-width="2"/>
+    <circle cx="420" cy="548" r="7" fill="#19363d" stroke="#c2d0b8" stroke-width="2"/>
+    <circle cx="367" cy="470" r="24" fill="#15313a" stroke="#97b0a6" stroke-width="2"/>
+    <circle cx="367" cy="470" r="16" fill="url(#copper)" stroke="#653e30" stroke-width="2"/>
+    <circle cx="367" cy="470" r="6" fill="#17303b" stroke="#c6cbb2" stroke-width="2"/>
+    <circle cx="467" cy="414" r="19" fill="#203b42" stroke="#9db5a8" stroke-width="2"/>
+    <circle cx="467" cy="414" r="11" fill="url(#copper)"/>
+    <path d="m477 421 20 17" stroke="#0b242d" stroke-width="19" stroke-linecap="round"/>
+    <path d="m477 421 20 17" stroke="#b2c3b3" stroke-width="11" stroke-linecap="round"/>
+    <path d="m492 437-3 17 9 7M501 432l17 3 4 10" stroke="#bdd0bc" stroke-width="5" stroke-linejoin="round"/>
+    <path d="m499 446 8 4" stroke="#e69766" stroke-width="2"/>
+    <use href="#bolt" x="412" y="531"/><use href="#bolt" x="435" y="557"/><use href="#bolt" x="354" y="458"/><use href="#bolt" x="379" y="484"/>
+
+    <!-- Right arm meets the end face; service loop routes away from the joint. -->
+    <ellipse cx="806" cy="590" rx="69" ry="28" fill="#071a22" opacity=".7"/>
+    <path d="m761 568 46-20 47 23v31l-46 20-47-23Z" fill="#213e47" stroke="#779b98" stroke-width="2"/>
+    <ellipse cx="807" cy="569" rx="47" ry="22" fill="#4e6d6b" stroke="#aabbaa" stroke-width="2"/>
+    <ellipse cx="807" cy="569" rx="30" ry="14" fill="#14313a" stroke="#e69766" stroke-width="3"/>
+    <path d="m806 566 0-59 105-62-15-64" stroke="#071d25" stroke-width="43" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m806 562 0-55 105-62-15-64" stroke="url(#arm)" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m796 556 0-54 103-62-12-57" stroke="#d5ddce" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m819 556 0-41 106-61-17-73" stroke="#45676b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M821 568v-51l104-62-10-55" stroke="#0d2932" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="806" cy="507" r="25" fill="#17333d" stroke="#a9baac" stroke-width="2"/>
+    <circle cx="806" cy="507" r="16" fill="url(#copper)" stroke="#6c4935" stroke-width="2"/>
+    <circle cx="806" cy="507" r="6" fill="#13303a" stroke="#d8d1b7" stroke-width="1.5"/>
+    <circle cx="911" cy="445" r="24" fill="#17333d" stroke="#a9baac" stroke-width="2"/>
+    <circle cx="911" cy="445" r="15" fill="url(#copper)" stroke="#6c4935" stroke-width="2"/>
+    <circle cx="911" cy="445" r="6" fill="#13303a" stroke="#d8d1b7" stroke-width="1.5"/>
+    <circle cx="896" cy="381" r="18" fill="#26454b" stroke="#a4b9aa" stroke-width="2"/>
+    <circle cx="896" cy="381" r="10" fill="url(#copper)"/>
+    <path d="m902 367 12-18" stroke="#19363f" stroke-width="17" stroke-linecap="round"/>
+    <path d="m902 367 12-18" stroke="#a9c0b3" stroke-width="10" stroke-linecap="round"/>
+    <path d="m908 347-4-12 9-10M919 352l14-3 4-13" stroke="#c3d1bd" stroke-width="5" stroke-linejoin="round"/>
+    <use href="#bolt" x="796" y="491"/><use href="#bolt" x="819" y="520"/><use href="#bolt" x="898" y="433"/><use href="#bolt" x="922" y="458"/>
+
+    <!-- Foreground instrument plate and a second short solar wing. -->
+    <path d="m644 753 57-24 19 9-57 25Z" fill="#304e54" stroke="#b3bfa9" stroke-width="1.5"/>
+    <g transform="matrix(.914 -.402 .65 .31 762 746)">
+      <rect x="-4" y="-4" width="188" height="128" fill="#10252e" stroke="#92aca6" stroke-width="3"/>
+      <rect width="180" height="120" fill="url(#cells)"/>
+      <path d="M90 0v120M0 60h180M0 0h180v120H0Z" stroke="#98b7ae" stroke-width="2.5"/>
+    </g>
+    <path d="m700 736 43 21 24-11" stroke="#78988f" stroke-width="7" stroke-linejoin="round"/>
+    <circle cx="743" cy="757" r="7" fill="#e69766" stroke="#17313a" stroke-width="2"/>
+    <g transform="matrix(.898 .438 0 1 279 621)">
+      <rect width="121" height="24" rx="2" fill="#132c34" stroke="#729493" stroke-width="1.2"/>
+      <text x="8" y="16" fill="#d8d8c9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.1">MERIDIAN / O</text>
+    </g>
+
+    <!-- Inspection beacon, readable callouts and survey ticks. -->
+    <path d="M1063 542v-66l-13-7" stroke="#87a5a0" stroke-width="3"/>
+    <path d="m1050 469-15 7v13l15 7 15-7v-13Z" fill="#25454c" stroke="#7fa6a6" stroke-width="1.5"/>
+    <circle cx="1051" cy="482" r="5" fill="#bce8c9"/>
+    <g class="beacon"><circle cx="1051" cy="482" r="16" fill="url(#light)"/><circle cx="1051" cy="482" r="6" fill="#a7d8ba" opacity=".55" filter="url(#beacon-glow)"/></g>
+    <path d="m1053 474 32-37 60 0M1018 230l58-33h67M281 356l-55-33h-61M442 683l-48 55h-89" stroke="#7fa6a6" stroke-opacity=".58" stroke-width="1.2"/>
+    <circle cx="1018" cy="230" r="4" stroke="#e69766" stroke-width="1.4"/><circle cx="281" cy="356" r="4" stroke="#e69766" stroke-width="1.4"/><circle cx="442" cy="683" r="4" stroke="#e69766" stroke-width="1.4"/>
+    <path d="M1136 192v10M1138 432v10M166 318v10M305 733v10" stroke="#e69766" stroke-width="1.3"/>
+    <g fill="#a8bbb0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">
+      <text x="1104" y="185">01</text><text x="1106" y="425">02</text><text x="168" y="311">03</text><text x="305" y="726">04</text>
+    </g>
+    <path d="m205 627 379 186M209 619l-8 16M584 805l-8 16M248 642l-4 8M291 663l-4 8M334 684l-4 8M377 705l-4 8M420 726l-4 8M463 747l-4 8M506 768l-4 8M549 789l-4 8" stroke="#6b9692" stroke-opacity=".4" stroke-width="1"/>
+    <path d="m701 845 312-136M698 837l7 16M1009 701l7 16" stroke="#6b9692" stroke-opacity=".35" stroke-width="1"/>
+    <circle cx="600" cy="865" r="2" fill="#e69766" opacity=".5"/><path d="M589 865h-29M611 865h29" stroke="#7fa6a6" stroke-width="1" opacity=".35"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg width="424" height="284" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 284" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Ask what the demonstration establishes</title>
+	<desc>Book framework, not an official maturity standard. Every level still needs a task boundary and evidence.</desc>
+	<clipPath id="clip-evidence_ladder">
+		<rect x="0" y="0" width="424" height="284"/>
+	</clipPath>
+	<g id="group-evidence_ladder" transform="scale(1,-1) translate(0,-284)" style="clip-path: url(#clip-evidence_ladder)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="284" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="16" y="228" width="58" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<text x="28" y="238" style="font-family: SansB; font-size: 10px;fill: rgb(6%,17%,25%); stroke:none;" transform="translate(0,476) scale(1,-1)">1</text>
+			<text x="214" y="242" style="font-family: SansB; font-size: 9.8px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,484) scale(1,-1)">Principle</text>
+			<text x="214" y="229" style="font-family: Sans; font-size: 7.8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,458) scale(1,-1)">Does known physics permit it?</text>
+			<rect x="16" y="188" width="86" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<text x="28" y="198" style="font-family: SansB; font-size: 10px;fill: rgb(6%,17%,25%); stroke:none;" transform="translate(0,396) scale(1,-1)">2</text>
+			<text x="214" y="202" style="font-family: SansB; font-size: 9.8px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,404) scale(1,-1)">Model</text>
+			<text x="214" y="189" style="font-family: Sans; font-size: 7.8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,378) scale(1,-1)">What assumptions produce the result?</text>
+			<rect x="16" y="148" width="114" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<text x="28" y="158" style="font-family: SansB; font-size: 10px;fill: rgb(6%,17%,25%); stroke:none;" transform="translate(0,316) scale(1,-1)">3</text>
+			<text x="214" y="162" style="font-family: SansB; font-size: 9.8px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,324) scale(1,-1)">Experiment</text>
+			<text x="214" y="149" style="font-family: Sans; font-size: 7.8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,298) scale(1,-1)">What worked in controlled conditions?</text>
+			<rect x="16" y="108" width="142" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<text x="28" y="118" style="font-family: SansB; font-size: 10px;fill: rgb(6%,17%,25%); stroke:none;" transform="translate(0,236) scale(1,-1)">4</text>
+			<text x="214" y="122" style="font-family: SansB; font-size: 9.8px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,244) scale(1,-1)">Relevant environment</text>
+			<text x="214" y="109" style="font-family: Sans; font-size: 7.8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,218) scale(1,-1)">Does it work under mission conditions?</text>
+			<rect x="16" y="68" width="170" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="28" y="78" style="font-family: SansB; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,156) scale(1,-1)">5</text>
+			<text x="214" y="82" style="font-family: SansB; font-size: 9.8px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,164) scale(1,-1)">Pilot operation</text>
+			<text x="214" y="69" style="font-family: Sans; font-size: 7.8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,138) scale(1,-1)">Can the integrated process deliver?</text>
+			<rect x="16" y="28" width="198" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="28" y="38" style="font-family: SansB; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,76) scale(1,-1)">6</text>
+			<text x="214" y="42" style="font-family: SansB; font-size: 9.8px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,84) scale(1,-1)">Repeated deployment</text>
+			<text x="214" y="29" style="font-family: Sans; font-size: 7.8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,58) scale(1,-1)">Can it sustain useful service?</text>
+			<text x="16" y="13" style="font-family: Sans; font-size: 8.7px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,26) scale(1,-1)">Announcements and ambitions are claims to evaluate, not maturity levels.</text>
+		</g>
+	</g>
+</svg>

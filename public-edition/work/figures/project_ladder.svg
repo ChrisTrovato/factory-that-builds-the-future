@@ -1,0 +1,32 @@
+<svg width="424" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Build evidence before complexity</title>
+	<desc>Original progression. Supervision and equipment requirements vary by project.</desc>
+	<clipPath id="clip-project_ladder">
+		<rect x="0" y="0" width="424" height="300"/>
+	</clipPath>
+	<g id="group-project_ladder" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip-project_ladder)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="300" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<circle cx="28" cy="255" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="252" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,504) scale(1,-1)">1</text>
+			<text x="50" y="259" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,518) scale(1,-1)">OBSERVE</text>
+			<text x="50" y="244.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,488) scale(1,-1)">Draw a mechanism. Explain what moves and what constrains it.</text>
+			<circle cx="28" cy="203" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="200" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,400) scale(1,-1)">2</text>
+			<text x="50" y="207" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,414) scale(1,-1)">MEASURE</text>
+			<text x="50" y="192.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,384) scale(1,-1)">Define a quantity. Repeat the measurement and estimate uncertainty.</text>
+			<circle cx="28" cy="151" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="148" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,296) scale(1,-1)">3</text>
+			<text x="50" y="155" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,310) scale(1,-1)">BUILD + REVISE</text>
+			<text x="50" y="140.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,280) scale(1,-1)">Make a benign interface. Compare serviceability across revisions.</text>
+			<circle cx="28" cy="99" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="96" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,192) scale(1,-1)">4</text>
+			<text x="50" y="103" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,206) scale(1,-1)">MODEL + TEST</text>
+			<text x="50" y="88.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,176) scale(1,-1)">Predict behavior. Challenge the model with measured evidence.</text>
+			<circle cx="28" cy="47" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="44" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,88) scale(1,-1)">5</text>
+			<text x="50" y="51" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,102) scale(1,-1)">INTEGRATE</text>
+			<text x="50" y="36.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,72) scale(1,-1)">Own a small subsystem through requirements and acceptance.</text>
+		</g>
+	</g>
+</svg>

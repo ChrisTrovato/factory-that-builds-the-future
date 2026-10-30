@@ -1,0 +1,42 @@
+<svg width="424" height="254" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 254" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Choose the process for the requirement</title>
+	<desc>Original comparison of process options; no process is universally preferred.</desc>
+	<clipPath id="clip-manufacturing_choice">
+		<rect x="0" y="0" width="424" height="254"/>
+	</clipPath>
+	<g id="group-manufacturing_choice" transform="scale(1,-1) translate(0,-254)" style="clip-path: url(#clip-manufacturing_choice)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="254" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="14" y="165" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="165" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="212.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,424) scale(1,-1)">MACHINE</text>
+			<text x="24" y="194.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,388) scale(1,-1)">Precision and stock</text>
+			<text x="24" y="182.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,364) scale(1,-1)">removal</text>
+			<rect x="152" y="165" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="152" y="165" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="162" y="212.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,424) scale(1,-1)">FORM</text>
+			<text x="162" y="194.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,388) scale(1,-1)">Shape by controlled</text>
+			<text x="162" y="182.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,364) scale(1,-1)">deformation</text>
+			<rect x="290" y="165" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="165" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="300" y="212.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,424) scale(1,-1)">CAST / MOLD</text>
+			<text x="300" y="194.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,388) scale(1,-1)">Tooling and repeated</text>
+			<text x="300" y="182.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,364) scale(1,-1)">geometry</text>
+			<rect x="14" y="76" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="76" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="123.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,246) scale(1,-1)">PRINT</text>
+			<text x="24" y="105.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,210) scale(1,-1)">Complexity + finishing</text>
+			<text x="24" y="93.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,186) scale(1,-1)">needs</text>
+			<rect x="152" y="76" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="152" y="76" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="162" y="123.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,246) scale(1,-1)">STOCK</text>
+			<text x="162" y="105.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,210) scale(1,-1)">Standard parts and</text>
+			<text x="162" y="93.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,186) scale(1,-1)">inventory</text>
+			<rect x="290" y="76" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="76" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="300" y="123.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,246) scale(1,-1)">REPAIR</text>
+			<text x="300" y="105.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,210) scale(1,-1)">Restore useful function</text>
+			<text x="15" y="24.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,48) scale(1,-1)">Compare accepted lifecycle output, not the attractiveness of the machine.</text>
+		</g>
+	</g>
+</svg>

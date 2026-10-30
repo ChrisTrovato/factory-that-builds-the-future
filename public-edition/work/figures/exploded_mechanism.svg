@@ -1,0 +1,44 @@
+<svg width="424" height="315" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 315" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>A small, serviceable machine interface</title>
+	<desc>MERIDIAN fictional carrier. Dimensions define a teaching envelope; geometry is schematic and not to scale.</desc>
+	<clipPath id="clip-exploded_mechanism">
+		<rect x="0" y="0" width="424" height="315"/>
+	</clipPath>
+	<g id="group-exploded_mechanism" transform="scale(1,-1) translate(0,-315)" style="clip-path: url(#clip-exploded_mechanism)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="315" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<polygon points="65 55, 225 55, 249 125, 89 125" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="65 55, 225 55, 225 46, 65 46" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="225 55, 249 125, 249 116, 225 46" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="93.0" cy="71.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="197.0" cy="71.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="105.0" cy="111.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="209.0" cy="111.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<polygon points="88 155, 214 155, 238 207, 112 207" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<polygon points="88 155, 214 155, 214 146, 88 146" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="214 155, 238 207, 238 198, 214 146" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="116.0" cy="171.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="186.0" cy="171.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="128.0" cy="193.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="198.0" cy="193.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<path d="M 112,218 L 112,183 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="112.0" cy="219.0" rx="7.0" ry="3.0" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 112,153 L 102,94 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
+			<path d="M 194,218 L 194,183 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="194.0" cy="219.0" rx="7.0" ry="3.0" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 194,153 L 184,94 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
+			<rect x="142" y="214" width="42" height="25" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="152.275390625" y="225" style="font-family: Sans; font-size: 8px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,450) scale(1,-1)">sensor</text>
+			<path d="M 241,66 L 278,66 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="278 66, 273.6121 68.39713, 273.6121 63.60287" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="286" y="76.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,152) scale(1,-1)">Base: 120 x 80 x 6 mm</text>
+			<path d="M 238,176 L 274,176 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="282" y="188.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,376) scale(1,-1)">Removable plate: 80 x 50 x 4</text>
+			<text x="282" y="175.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,350) scale(1,-1)">mm</text>
+			<path d="M 202,219 L 274,254 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="282" y="266.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,532) scale(1,-1)">Captive retention fasteners</text>
+			<text x="18" y="286" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,572) scale(1,-1)">MERIDIAN / EXPLODED SERVICE CONCEPT</text>
+			<text x="18" y="22" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,44) scale(1,-1)">Illustrative envelope. Not a released fabrication drawing.</text>
+		</g>
+	</g>
+</svg>

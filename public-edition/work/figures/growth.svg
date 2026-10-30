@@ -1,0 +1,48 @@
+<svg width="424" height="330" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 330" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Growth under declared constraints</title>
+	<desc>Original toy model. Periods and capacity units are abstract. Upper and lower panels use different vertical scales; these curves are not forecasts.</desc>
+	<clipPath id="clip-growth">
+		<rect x="0" y="0" width="424" height="330"/>
+	</clipPath>
+	<g id="group-growth" transform="scale(1,-1) translate(0,-330)" style="clip-path: url(#clip-growth)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="330" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<text x="38" y="307" style="font-family: SansB; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,614) scale(1,-1)">Ideal reference / installed capacity</text>
+			<path d="M 38,186 L 392,186 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 38,186 L 38,294 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 38,186 L 392,186 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="26.9453125" y="183.0" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,366) scale(1,-1)">0</text>
+			<path d="M 38,240 L 392,240 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="22.890625" y="237.0" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,474) scale(1,-1)">80</text>
+			<path d="M 38,294 L 392,294 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="18.8359375" y="291.0" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,582) scale(1,-1)">160</text>
+			<text x="35.97265625" y="173" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,346) scale(1,-1)">0</text>
+			<text x="151.9453125" y="173" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,346) scale(1,-1)">20</text>
+			<text x="269.9453125" y="173" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,346) scale(1,-1)">40</text>
+			<text x="387.9453125" y="173" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,346) scale(1,-1)">60</text>
+			<polyline points="38 188.7, 43.9 188.8688, 49.8 189.048, 55.7 189.2385, 61.6 189.441, 67.5 189.656, 73.4 189.8845, 79.3 190.1273, 85.2 190.3853, 91.1 190.6593, 97 190.9505, 102.9 191.26, 108.8 191.5887, 114.7 191.938, 120.6 192.3091, 126.5 192.7034, 132.4 193.1224, 138.3 193.5676, 144.2 194.0405, 150.1 194.5431, 156 195.077, 161.9 195.6443, 167.8 196.2471, 173.7 196.8875, 179.6 197.568, 185.5 198.291, 191.4 199.0592, 197.3 199.8754, 203.2 200.7426, 209.1 201.664, 215 202.643, 220.9 203.6832, 226.8 204.7884, 232.7 205.9627, 238.6 207.2103, 244.5 208.536, 250.4 209.9445, 256.3 211.441, 262.2 213.0311, 268.1 214.7205, 274 216.5156, 279.9 218.4228, 285.8 220.4492, 291.7 222.6023, 297.6 224.8899, 303.5 227.3205, 309.4 229.9031, 315.3 232.647, 321.2 235.5625, 327.1 238.6601, 333 241.9514, 338.9 245.4483, 344.8 249.1638, 350.7 253.1116, 356.6 257.3061, 362.5 261.7627, 368.4 266.4979, 374.3 271.529, 380.2 276.8745, 386.1 282.5542, 392 288.5888" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<text x="38" y="164" style="font-family: SansB; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,328) scale(1,-1)">Constrained cases / active capacity</text>
+			<path d="M 38,43 L 392,43 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 38,43 L 38,151 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 38,43 L 392,43 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="26.9453125" y="40.0" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,80) scale(1,-1)">0</text>
+			<path d="M 38,97 L 392,97 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="26.9453125" y="94.0" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,188) scale(1,-1)">7</text>
+			<path d="M 38,151 L 392,151 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="22.890625" y="148.0" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,296) scale(1,-1)">14</text>
+			<text x="35.97265625" y="30" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,60) scale(1,-1)">0</text>
+			<text x="151.9453125" y="30" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,60) scale(1,-1)">20</text>
+			<text x="269.9453125" y="30" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,60) scale(1,-1)">40</text>
+			<text x="387.9453125" y="30" style="font-family: Sans; font-size: 8px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,60) scale(1,-1)">60</text>
+			<polyline points="38 73.85714, 43.9 73.54857, 49.8 73.24309, 55.7 72.94065, 61.6 74.28053, 67.5 75.59062, 73.4 76.87138, 79.3 78.12326, 85.2 79.43381, 91.1 80.80085, 97 82.22226, 102.9 83.69596, 108.8 85.22454, 114.7 86.81047, 120.6 88.45605, 126.5 90.16346, 132.4 91.935, 138.3 93.77308, 144.2 95.6802, 150.1 97.65896, 156 99.71204, 161.9 101.8422, 167.8 104.0525, 173.7 106.3457, 179.6 108.7251, 185.5 111.1938, 191.4 113.7553, 197.3 116.413, 203.2 119.1705, 209.1 122.0316, 215 125.0001, 220.9 128.0802, 226.8 131.2759, 232.7 134.5917, 238.6 135.5714, 244.5 135.5714, 250.4 135.5714, 256.3 135.5714, 262.2 135.5714, 268.1 135.5714, 274 135.5714, 279.9 135.5714, 285.8 135.5714, 291.7 135.5714, 297.6 135.5714, 303.5 135.5714, 309.4 135.5714, 315.3 135.5714, 321.2 135.5714, 327.1 135.5714, 333 135.5714, 338.9 135.5714, 344.8 135.5714, 350.7 135.5714, 356.6 135.5714, 362.5 135.5714, 368.4 135.5714, 374.3 135.5714, 380.2 135.5714, 386.1 135.5714, 392 135.5714" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="38 73.85714, 43.9 73.54857, 49.8 73.24309, 55.7 72.94065, 61.6 73.25839, 67.5 73.57295, 73.4 73.88436, 79.3 74.19266, 85.2 74.49788, 91.1 74.80004, 97 75.09919, 102.9 75.39534, 108.8 75.68853, 114.7 75.97878, 120.6 76.26614, 126.5 76.55062, 132.4 76.83226, 138.3 77.11108, 144.2 77.38711, 150.1 77.66038, 156 77.93092, 161.9 78.19875, 167.8 78.46391, 173.7 78.72641, 179.6 78.98629, 185.5 79.24357, 191.4 79.49828, 197.3 79.75044, 203.2 80.00008, 209.1 80.24722, 215 80.49189, 220.9 80.73411, 226.8 80.97392, 232.7 81.21132, 238.6 81.44635, 244.5 81.67903, 250.4 81.90938, 256.3 82.13743, 262.2 82.3632, 268.1 82.58671, 274 82.80798, 279.9 83.02705, 285.8 83.24392, 291.7 83.45862, 297.6 83.67118, 303.5 83.88161, 309.4 84.08994, 315.3 84.29618, 321.2 84.50036, 327.1 84.7025, 333 84.90262, 338.9 85.10074, 344.8 85.29687, 350.7 85.49105, 356.6 85.68328, 362.5 85.87359, 368.4 86.062, 374.3 86.24852, 380.2 86.43318, 386.1 86.61599, 392 86.79697" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<polyline points="38 73.85714, 43.9 71.08, 49.8 68.5528, 55.7 66.25305, 61.6 66.03099, 67.5 65.66055, 73.4 65.17024, 79.3 64.58463, 85.2 64.03827, 91.1 63.51862, 97 63.01602, 102.9 62.52314, 108.8 62.0415, 114.7 61.57171, 120.6 61.11373, 126.5 60.66708, 132.4 60.23144, 138.3 59.80652, 144.2 59.39208, 150.1 58.98786, 156 58.5936, 161.9 58.20908, 167.8 57.83403, 173.7 57.46823, 179.6 56.16609, 185.5 54.98114, 191.4 53.90284, 197.3 52.92158, 203.2 52.02864, 209.1 51.21606, 215 50.47662, 220.9 49.80372, 226.8 49.19139, 232.7 48.63416, 238.6 48.12709, 244.5 47.66565, 250.4 47.24574, 256.3 46.86362, 262.2 46.5159, 268.1 46.19947, 274 45.91152, 279.9 45.64948, 285.8 45.41103, 291.7 45.19403, 297.6 44.99657, 303.5 44.81688, 309.4 44.65336, 315.3 44.50456, 321.2 44.36915, 327.1 44.24592, 333 44.13379, 338.9 44.03175, 344.8 43.93889, 350.7 43.85439, 356.6 43.7775, 362.5 43.70752, 368.4 43.64385, 374.3 43.5859, 380.2 43.53317, 386.1 43.48518, 392 43.44152" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd; stroke-dasharray: 4, 2;"/>
+			<path d="M 22,18 L 40,18 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="45" y="15" style="font-family: Sans; font-size: 8.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,30) scale(1,-1)">Supported</text>
+			<path d="M 157,18 L 175,18 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="180" y="15" style="font-family: Sans; font-size: 8.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,30) scale(1,-1)">Component-limited</text>
+			<path d="M 292,18 L 310,18 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="315" y="15" style="font-family: Sans; font-size: 8.5px;fill: rgb(6%,17%,25%); stroke:none;" transform="translate(0,30) scale(1,-1)">Neglect + shock</text>
+		</g>
+	</g>
+</svg>

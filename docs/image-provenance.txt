@@ -1,0 +1,18 @@
+Asset: public/assets/shipyard-hero.png
+Mode: built-in image_gen.imagegen, single original generation; no CLI or external API fallback.
+Intent: original speculative cinematic concept art, not a documentary photograph of existing hardware.
+Transparency: false.
+Input images: none.
+Generated source: archived locally; public asset retained in public/assets/.
+Selection: first and only generated image; inspected visually for composition, machinery, quiet left text area, no labels/logos, and readable lighting.
+Processing: copied unchanged to the project; no crop, retouch, or format conversion.
+
+Exact final prompt:
+Use case: stylized-concept.
+Asset type: ultra-wide cinematic website hero background, approximately 2.4:1 landscape composition.
+Primary request: A striking, physically grounded orbital robotic shipyard above Earth, with the credibility and visual restraint of a large-format documentary photograph of future engineering. This is original speculative concept art, not a photograph of an existing facility.
+Scene: Deep black orbital space. Earth's immense curved blue limb sweeps across the lower-right distance, with intricate white cloud systems, dark ocean, and a thin atmospheric edge. Early sunlight comes from just outside the upper right.
+Subject: On the central and right two-thirds, a vast but legible industrial assembly yard: connected modular steel-and-composite trusses, a restrained partially assembled spacecraft structure, two substantial articulated robotic manipulators gripping structural sections through plausible mechanical end effectors, service platforms, compact equipment boxes, fine cable routing, and long dark solar arrays. The main manipulator and incomplete lattice should have convincing mechanical articulation, hierarchy and scale. Smaller distant modules imply continuation of the yard. No people are required.
+Composition: Wide establishing view from slightly above the worksite, diagonal structural lines receding toward Earth, a strong foreground arm and truss node at right, remarkable depth, clear silhouette, and an evocative sense of scale. Preserve the left 35 percent as quiet, mostly empty, nearly black space with very subdued detail for large website text. Keep important machinery away from the extreme edges for responsive cropping. The scene itself must be beautiful before any text is added.
+Lighting and materials: Warm amber grazing sunlight on pale metal, worn anodized surfaces, brushed aluminum, muted copper thermal insulation, realistic dark joints and panel seams; cool blue reflected Earth light in the shadows. High dynamic range with readable machinery, delicate realistic detail, subtle film texture and disciplined contrast. Crisp space lighting, restrained lens behavior, almost documentary rather than a glossy videogame render.
+Constraints: No text, logos, watermark, interface overlays, infographic labels, fiery welding beams, lasers, explosions, fantasy propulsion, atmospheric fog around the machinery, impossible floating loose debris, or oversaturated neon. Do not fill the left negative space with stars or machinery. Opaque image, not a cutout.

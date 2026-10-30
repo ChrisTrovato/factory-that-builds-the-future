@@ -1,0 +1,27 @@
+<svg width="424" height="290" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 290" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The same heat, three different exits</title>
+	<desc>Original comparison. Every environment requires an engineered path from heat source to sink.</desc>
+	<clipPath id="clip-heat_worlds">
+		<rect x="0" y="0" width="424" height="290"/>
+	</clipPath>
+	<g id="group-heat_worlds" transform="scale(1,-1) translate(0,-290)" style="clip-path: url(#clip-heat_worlds)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="290" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="14" y="213" width="396" height="72" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="213" width="396" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="267.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,534) scale(1,-1)">EARTH</text>
+			<text x="24" y="249.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,498) scale(1,-1)">Machine -&gt; coolant / air -&gt; surroundings</text>
+			<text x="25" y="225" style="font-family: Sans; font-size: 8.7px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,450) scale(1,-1)">Fans, pumps, heat exchangers; room conditions.</text>
+			<rect x="14" y="125" width="396" height="72" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="125" width="396" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="179.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,358) scale(1,-1)">OCEAN</text>
+			<text x="24" y="161.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,322) scale(1,-1)">Equipment -&gt; housing / exchanger -&gt; water</text>
+			<text x="25" y="137" style="font-family: Sans; font-size: 8.7px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,274) scale(1,-1)">Pressure enclosure, corrosion, fouling, flow.</text>
+			<rect x="14" y="37" width="396" height="72" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="37" width="396" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="24" y="91.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,182) scale(1,-1)">ORBIT</text>
+			<text x="24" y="73.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,146) scale(1,-1)">Equipment -&gt; thermal path -&gt; radiator -&gt; space</text>
+			<text x="25" y="49" style="font-family: Sans; font-size: 8.7px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,98) scale(1,-1)">Area, temperature, optical properties, view.</text>
+		</g>
+	</g>
+</svg>

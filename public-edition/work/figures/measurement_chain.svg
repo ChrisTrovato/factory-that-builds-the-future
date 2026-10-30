@@ -1,0 +1,47 @@
+<svg width="424" height="255" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 255" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Who checks the checker?</title>
+	<desc>Original conceptual measurement chain. Independent checks help reveal common-mode errors.</desc>
+	<clipPath id="clip-measurement_chain">
+		<rect x="0" y="0" width="424" height="255"/>
+	</clipPath>
+	<g id="group-measurement_chain" transform="scale(1,-1) translate(0,-255)" style="clip-path: url(#clip-measurement_chain)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="255" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="14" y="166" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="166" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="213.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,426) scale(1,-1)">REFERENCE</text>
+			<text x="24" y="195.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,390) scale(1,-1)">Known value + uncertainty</text>
+			<path d="M 136,198.5 L 149,198.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="149 198.5, 144.6121 200.8971, 144.6121 196.1029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="152" y="166" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="152" y="166" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="162" y="213.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,426) scale(1,-1)">CALIBRATION</text>
+			<text x="162" y="195.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,390) scale(1,-1)">Comparison and correction</text>
+			<path d="M 274,198.5 L 287,198.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="287 198.5, 282.6121 200.8971, 282.6121 196.1029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="290" y="166" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="166" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="300" y="213.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,426) scale(1,-1)">WORKING GAUGE</text>
+			<text x="300" y="195.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,390) scale(1,-1)">Condition and drift checks</text>
+			<path d="M 350,164 L 350,146 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 3, 2;"/>
+			<polygon points="350 146, 352.3971 150.3879, 347.6029 150.3879" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<rect x="290" y="77" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="77" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="300" y="124.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,248) scale(1,-1)">PART MEASUREMENT</text>
+			<text x="300" y="106.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,212) scale(1,-1)">Method + environment</text>
+			<path d="M 288,109.5 L 275,109.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="275 109.5, 279.3879 107.1029, 279.3879 111.8971" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="152" y="77" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="152" y="77" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="162" y="124.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,248) scale(1,-1)">DECISION</text>
+			<text x="162" y="106.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,212) scale(1,-1)">Acceptance rule</text>
+			<path d="M 150,109.5 L 137,109.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="137 109.5, 141.3879 107.1029, 141.3879 111.8971" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="14" y="77" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="77" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="124.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,248) scale(1,-1)">INDEPENDENT CHECK</text>
+			<text x="24" y="106.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,212) scale(1,-1)">Catch shared assumptions</text>
+			<text x="15" y="24.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,48) scale(1,-1)">Traceability connects measurements; it does not make uncertainty zero.</text>
+		</g>
+	</g>
+</svg>

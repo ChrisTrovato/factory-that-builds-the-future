@@ -1,0 +1,31 @@
+<svg width="424" height="320" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 320" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>A resident robot is more than a vehicle</title>
+	<desc>Original conceptual resident inspection system. Docking does not imply universal autonomous repair.</desc>
+	<clipPath id="clip-ocean_residency">
+		<rect x="0" y="0" width="424" height="320"/>
+	</clipPath>
+	<g id="group-ocean_residency" transform="scale(1,-1) translate(0,-320)" style="clip-path: url(#clip-ocean_residency)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="320" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<path d="M 14,275 L 410,275 Z" style="stroke: rgb(86%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 14,265 L 410,265 Z" style="stroke: rgb(86%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 14,255 L 410,255 Z" style="stroke: rgb(86%,90%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="0" y="0" width="424" height="242" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<path d="M 14,39 L 410,39 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 2;"/>
+			<rect x="58" y="40" width="90" height="45" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="91.0859375" y="58" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,116) scale(1,-1)">DOCK</text>
+			<ellipse cx="273.0" cy="145.0" rx="61.0" ry="26.0" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<circle cx="229" cy="145" r="12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 244,113 L 148,71 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 4, 3;"/>
+			<polygon points="148 71, 152.9808 70.56261, 151.0592 74.9549" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 148,97 L 225,157 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 4, 3;"/>
+			<polygon points="225 157, 220.0654 156.1938, 223.0122 152.4121" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="17" y="300.0" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,600) scale(1,-1)">RESIDENT INSPECTION SYSTEM / CONCEPT</text>
+			<text x="183" y="62.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,124) scale(1,-1)">Power + data + alignment + recovery</text>
+			<text x="19" y="218.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,436) scale(1,-1)">The dock extends the vehicle. It is also a</text>
+			<text x="19" y="205.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,410) scale(1,-1)">shared dependency.</text>
+			<text x="288" y="185" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,370) scale(1,-1)">task-specific vehicle</text>
+			<path d="M 334,180 L 314,165 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+		</g>
+	</g>
+</svg>

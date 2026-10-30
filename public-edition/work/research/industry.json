@@ -1,0 +1,178 @@
+[
+  {
+    "id": "I01",
+    "title": "Abundant Intelligence",
+    "organization": "Sam Altman",
+    "date": "undated in retrieved body",
+    "url": "https://blog.samaltman.com/abundant-intelligence",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Aspirational factory producing a gigawatt of new AI infrastructure weekly; difficult execution across chips, power, construction and robotics.",
+    "limitation": "Personal vision, not achieved production or a replication demonstration."
+  },
+  {
+    "id": "I02",
+    "title": "Why Sam Altman is against a single superintelligence - publisher transcript",
+    "organization": "Cheeky Pint",
+    "date": "2026-10-29",
+    "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single",
+    "accessed": "2026-10-29",
+    "status": "primary-opened-in-Chrome",
+    "supports": "Compute section beginning at25:17: robotics program aimed at data centers; discussion of self-replicating data centers, fabs, turbines, panels; Collison raises permitting and component constraints; Altman describes a long period of work.",
+    "limitation": "Publisher transcript inspected in browser; audio not independently audited. Transistor endpoint failed. No exact numerical forecast inferred."
+  },
+  {
+    "id": "I03",
+    "title": "Key Questions on Energy and AI: Executive summary",
+    "organization": "International Energy Agency",
+    "date": "2026",
+    "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Central projection485TWh2025 to950TWh2030 for all data centers; near-term energy, chips and finance bottlenecks.",
+    "limitation": "Projection and global category, not realized2030 demand or AI-only consumption."
+  },
+  {
+    "id": "I04",
+    "title": "Supply Chain and Market Analysis",
+    "organization": "US Department of Energy, Office of Electricity",
+    "date": "current page; includes March 5, 2026 webinar update",
+    "url": "https://www.energy.gov/oe/supply-chain-and-market-analysis",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Distribution-transformer variety and specification harmonization; historical2019/2023 lead-time comparison.",
+    "limitation": "Historical lead times do not describe every transformer category or current procurement."
+  },
+  {
+    "id": "I05",
+    "title": "7.0 Thermal Control, State-of-the-Art Small Spacecraft Technology",
+    "organization": "NASA",
+    "date": "current2026 edition page",
+    "url": "https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Thermal balance, conduction, radiation, environmental heat flux and radiator tradeoffs.",
+    "limitation": "Technology survey; book calculations are original simplified examples, not spacecraft designs."
+  },
+  {
+    "id": "I06",
+    "title": "Amazon launches a new AI foundation model to power its robotic fleet and deploys its1 millionth robot",
+    "organization": "Amazon; Scott Dresser",
+    "date": "2025 milestone, current webpage",
+    "url": "https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Company-reported millionth deployed robot and DeepFleet10% travel-efficiency improvement claim.",
+    "limitation": "Operator's own statement, not independent all-factory productivity evaluation."
+  },
+  {
+    "id": "I07",
+    "title": "Introducing Vulcan: Amazon's first robot with a sense of touch",
+    "organization": "Amazon; Alex Davies",
+    "date": "2025 introduction; current webpage",
+    "url": "https://www.aboutamazon.com/news/operations/amazon-vulcan-robot-pick-stow-touch",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Force-aware pick/stow manipulation, specialized tooling and human fallback.",
+    "limitation": "Warehouse scope; does not establish arbitrary assembly/manufacturing. Page mixes introduction and later updates."
+  },
+  {
+    "id": "I08",
+    "title": "SI & Robotics",
+    "organization": "Tesla",
+    "date": "current page",
+    "url": "https://www.tesla.com/SI",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Optimus general-purpose bipedal robot development ambition and related engineering work.",
+    "limitation": "AI URL redirects here. Not audited fleet autonomy, reliability or production-volume evidence."
+  },
+  {
+    "id": "I09",
+    "title": "Digital Twins for Advanced Manufacturing",
+    "organization": "NIST",
+    "date": "current program page",
+    "url": "https://www.nist.gov/programs-projects/digital-twins-advanced-manufacturing",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Trustworthy models, interoperability, verification, validation and uncertainty quantification research.",
+    "limitation": "Program objectives and reference implementations do not validate SHIPYARD ONE."
+  },
+  {
+    "id": "I10",
+    "title": "HII Expands Welding Automation at Ingalls Shipbuilding Through Partnership with HD HHI",
+    "organization": "HII",
+    "date": "2026-08-04",
+    "url": "https://www.hii.com/news/hii-expands-welding-automation-at-ingalls-shipbuilding-through-partnership-with-hd-hhi",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Pilot mechanized intelligent welding in unit fabrication, workpiece recognition, correction and process data.",
+    "limitation": "Company-described pilot; no universal shipyard autonomy or independently established productivity gain."
+  },
+  {
+    "id": "I11",
+    "title": "HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics",
+    "organization": "HII",
+    "date": "2026-08-06",
+    "url": "https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Staged development/qualification and delivery conditional on cost, schedule and quality.",
+    "limitation": "Agreement is not proof every planned production process is deployed."
+  },
+  {
+    "id": "I12",
+    "title": "Computer Aided Robotics Welding Production Scanning & Multi-Robot Capability Enhancements2017-425",
+    "organization": "National Shipbuilding Research Program",
+    "date": "2017 project",
+    "url": "https://www.nsrp.org/project/computer-aided-robotics-welding-car-w-production-scanning-multi-robot-capability-enhancements/",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "As-built scanning and multi-robot planning to accommodate CAD-to-part variation.",
+    "limitation": "Public project summary, not complete restricted final report or current deployment census."
+  },
+  {
+    "id": "I13",
+    "title": "Real-Time Predictions of Distortion and Residual Stress Resulting from Weld Sequences Using ML Algorithms10-R6430",
+    "organization": "Southwest Research Institute",
+    "date": "2025 annual research report",
+    "url": "https://www.swri.org/what-we-do/internal-research-development/2025/manufacturing-construction/real-time-predictions-of-distortion-residual-stress-resulting-weld-sequences-using-ml-algorithms-10-r6430",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Research on predicting distortion and selecting weld sequences with as-built variation.",
+    "limitation": "Research demonstration, not guaranteed production performance across geometries."
+  },
+  {
+    "id": "I14",
+    "title": "About Blue Origin",
+    "organization": "Blue Origin",
+    "date": "current page",
+    "url": "https://www.blueorigin.com/about-blue",
+    "accessed": "2026-10-29",
+    "status": "primary-opened",
+    "supports": "Organizational vision for people living and working in space for Earth; infrastructure emphasis.",
+    "limitation": "Vision, not demonstrated off-world industrial independence."
+  },
+  {
+    "id": "I15",
+    "title": "Mars & Beyond",
+    "organization": "SpaceX",
+    "date": "current page",
+    "url": "https://www.spacex.com/humanspaceflight/mars",
+    "accessed": "2026-10-29",
+    "status": "primary-opened-in-Chrome",
+    "supports": "Transport and self-sufficient city ambitions; power, mining, construction and other supporting industries.",
+    "limitation": "Web extraction failed but browser body was readable. Company vision is not achieved industrial capability; no schedule or cost forecast adopted."
+  },
+  {
+    "id": "I16",
+    "title": "A Proof for the Queuing Formula: L = lambda W",
+    "organization": "John D. C. Little, Operations Research9(3):383-387",
+    "date": "1961",
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/opre.9.3.383",
+    "accessed": "2026-10-29",
+    "status": "primary-abstract-opened",
+    "supports": "Relationship between mean population, arrival rate and time in system under consistent averaging conditions.",
+    "limitation": "Original book examples use the identity with stated stable-flow boundaries; no reproduction of the proof."
+  }
+]

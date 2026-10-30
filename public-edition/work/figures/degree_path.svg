@@ -1,0 +1,33 @@
+<svg width="424" height="310" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 310" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>A conditional route into aerospace engineering</title>
+	<desc>Planning concept only. Remaining degree sequences vary by program and preparation; this map promises no individual duration.</desc>
+	<clipPath id="clip-degree_path">
+		<rect x="0" y="0" width="424" height="310"/>
+	</clipPath>
+	<g id="group-degree_path" transform="scale(1,-1) translate(0,-310)" style="clip-path: url(#clip-degree_path)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="310" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<circle cx="28" cy="256" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="253" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,506) scale(1,-1)">1</text>
+			<text x="50" y="261" style="font-family: SansB; font-size: 9.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,522) scale(1,-1)">FOUNDATIONS</text>
+			<text x="50" y="246.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,492) scale(1,-1)">Placement -&gt; algebra / trigonometry / precalculus</text>
+			<circle cx="28" cy="202" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="199" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,398) scale(1,-1)">2</text>
+			<text x="50" y="207" style="font-family: SansB; font-size: 9.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,414) scale(1,-1)">LOWER DIVISION</text>
+			<text x="50" y="192.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,384) scale(1,-1)">Calculus + physics + chemistry + programming</text>
+			<circle cx="28" cy="148" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="145" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,290) scale(1,-1)">3</text>
+			<text x="50" y="153" style="font-family: SansB; font-size: 9.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,306) scale(1,-1)">TRANSFER PREPARATION</text>
+			<text x="50" y="138.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,276) scale(1,-1)">Eligibility + major preparation + GE + articulation</text>
+			<circle cx="28" cy="94" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="91" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,182) scale(1,-1)">4</text>
+			<text x="50" y="99" style="font-family: SansB; font-size: 9.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,198) scale(1,-1)">UPPER DIVISION</text>
+			<text x="50" y="84.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,168) scale(1,-1)">Structures, fluids, thermal, controls, design</text>
+			<circle cx="28" cy="40" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="37" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,74) scale(1,-1)">5</text>
+			<text x="50" y="45" style="font-family: SansB; font-size: 9.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,90) scale(1,-1)">EVIDENCE + DEPTH</text>
+			<text x="50" y="30.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,60) scale(1,-1)">Projects, laboratories, internships and electives</text>
+			<text x="18" y="17" style="font-family: Sans; font-size: 8.6px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,34) scale(1,-1)">Conditional concept map. Exact college equivalencies require verification.</text>
+		</g>
+	</g>
+</svg>

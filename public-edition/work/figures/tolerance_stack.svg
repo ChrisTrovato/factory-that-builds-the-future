@@ -1,0 +1,25 @@
+<svg width="424" height="275" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 275" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The clearance that survives the limits</title>
+	<desc>Original worst-case calculation from Chapter5. Schematic geometry is not to scale; shape and angular effects are excluded.</desc>
+	<clipPath id="clip-tolerance_stack">
+		<rect x="0" y="0" width="424" height="275"/>
+	</clipPath>
+	<g id="group-tolerance_stack" transform="scale(1,-1) translate(0,-275)" style="clip-path: url(#clip-tolerance_stack)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="275" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<text x="18" y="244" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,488) scale(1,-1)">ONE-DIMENSIONAL CLEARANCE / ILLUSTRATIVE</text>
+			<rect x="28" y="127" width="169" height="73" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="50" y="127" width="125" height="48" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="239" y="127" width="130" height="48" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="94.45361328125" y="213" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,426) scale(1,-1)">Opening</text>
+			<text x="288.58251953125" y="213" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,426) scale(1,-1)">Tongue</text>
+			<text x="74.40478515625" y="103" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,206) scale(1,-1)">20.00 +/- 0.05 mm</text>
+			<text x="266.40478515625" y="103" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,206) scale(1,-1)">19.80 +/- 0.04 mm</text>
+			<path d="M 20,83 L 404,83 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20" y="61" style="font-family: SansB; font-size: 9px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,122) scale(1,-1)">MINIMUM GAP</text>
+			<text x="172" y="61" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,122) scale(1,-1)">19.95 - 19.84 = 0.11 mm</text>
+			<text x="20" y="36" style="font-family: SansB; font-size: 9px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,72) scale(1,-1)">MAXIMUM GAP</text>
+			<text x="172" y="36" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,72) scale(1,-1)">20.05 - 19.76 = 0.29 mm</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,54 @@
+<svg width="424" height="472" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 472" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The Small Parts That Hold Up the Big Future / II</title>
+	<desc>Original schematic objects. Local structural mass does not replace these process capabilities.</desc>
+	<clipPath id="clip-small_parts_2">
+		<rect x="0" y="0" width="424" height="472"/>
+	</clipPath>
+	<g id="group-small_parts_2" transform="scale(1,-1) translate(0,-472)" style="clip-path: url(#clip-small_parts_2)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="472" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="62" y="339" width="86" height="76" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 68,344 L 68,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 77,344 L 77,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 86,344 L 86,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 95,344 L 95,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 104,344 L 104,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 113,344 L 113,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 122,344 L 122,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 131,344 L 131,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 140,344 L 140,410 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="18" y="305" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,610) scale(1,-1)">FILTER</text>
+			<text x="18" y="286.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,572) scale(1,-1)">Protects a process by capturing</text>
+			<text x="18" y="272.5" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,545) scale(1,-1)">contamination. Replacement media must</text>
+			<text x="18" y="259.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,518) scale(1,-1)">be supplied.</text>
+			<polygon points="263 352, 357 352, 310 429" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 2; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<circle cx="310" cy="377" r="10" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<circle cx="310" cy="421" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="223" y="305" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,610) scale(1,-1)">CUTTING TOOL</text>
+			<text x="223" y="286.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,572) scale(1,-1)">Makes parts by wearing itself. Geometry,</text>
+			<text x="223" y="272.5" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,545) scale(1,-1)">material and tool-life evidence matter.</text>
+			<polygon points="41 137, 136 137, 160 181, 65 181" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="41 137, 136 137, 136 128, 41 128" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<polygon points="136 137, 160 181, 160 172, 136 128" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<ellipse cx="69.0" cy="153.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="108.0" cy="153.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="81.0" cy="167.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<ellipse cx="120.0" cy="167.0" rx="4.0" ry="2.5" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<circle cx="105" cy="172" r="22" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="18" y="85" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,170) scale(1,-1)">CALIBRATION ARTIFACT</text>
+			<text x="18" y="66.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,132) scale(1,-1)">Checks the checker. Damage or drift can</text>
+			<text x="18" y="52.5" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,105) scale(1,-1)">corrupt a whole measurement chain.</text>
+			<path d="M 310,122 L 310,190 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 11;"/>
+			<polygon points="288 187, 298 202, 322 202, 332 187, 322 172, 298 172" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 302,129 L 318,135 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 302,136 L 318,142 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 302,143 L 318,149 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 302,150 L 318,156 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 302,157 L 318,163 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 302,164 L 318,170 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="223" y="85" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,170) scale(1,-1)">FASTENER</text>
+			<text x="223" y="66.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,132) scale(1,-1)">Retains an assembly. Access, preload and</text>
+			<text x="223" y="52.5" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,105) scale(1,-1)">loss prevention shape repairability.</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="424" height="270" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 270" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Distance turns logistics into autonomy requirements</title>
+	<desc>Original conceptual map; no mission schedule or communication-delay value is encoded.</desc>
+	<clipPath id="clip-mars_logistics">
+		<rect x="0" y="0" width="424" height="270"/>
+	</clipPath>
+	<g id="group-mars_logistics" transform="scale(1,-1) translate(0,-270)" style="clip-path: url(#clip-mars_logistics)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="270" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<circle cx="64" cy="159" r="29" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<circle cx="352" cy="159" r="25" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="50.08642578125" y="111" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,222) scale(1,-1)">EARTH</text>
+			<text x="339.421875" y="111" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,222) scale(1,-1)">MARS</text>
+			<path d="M 102,185 L 317,185 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="317 185, 312.6121 187.3971, 312.6121 182.6029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="138.720703125" y="199" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,398) scale(1,-1)">cargo: planned transport opportunities</text>
+			<path d="M 317,145 L 103,145 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 4, 3;"/>
+			<polygon points="103 145, 107.3879 142.6029, 107.3879 147.3971" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<path d="M 103,139 L 317,139 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 4, 3;"/>
+			<polygon points="317 139, 312.6121 141.3971, 312.6121 136.6029" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="132.416748046875" y="120" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,240) scale(1,-1)">commands + data: delay and interruptions</text>
+			<text x="18" y="73.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,146) scale(1,-1)">Local operating decisions need bounded autonomy, inventories, fault recovery and evidence.</text>
+			<text x="18" y="60.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,120) scale(1,-1)">Atmospheric oxygen production is one capability, not a whole industrial network.</text>
+			<text x="18" y="242" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,484) scale(1,-1)">LOGISTICS CHANGES THE AUTONOMY REQUIREMENT</text>
+		</g>
+	</g>
+</svg>

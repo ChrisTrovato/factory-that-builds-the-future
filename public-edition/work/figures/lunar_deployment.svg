@@ -1,0 +1,36 @@
+<svg width="424" height="310" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 310" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The first factory must first start</title>
+	<desc>MERIDIAN-L fictional sunlit campaign sequence. Recovery equipment is delivered before it is needed.</desc>
+	<clipPath id="clip-lunar_deployment">
+		<rect x="0" y="0" width="424" height="310"/>
+	</clipPath>
+	<g id="group-lunar_deployment" transform="scale(1,-1) translate(0,-310)" style="clip-path: url(#clip-lunar_deployment)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="310" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<circle cx="28" cy="256" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="253" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,506) scale(1,-1)">1</text>
+			<rect x="48" y="232" width="361" height="58" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="48" y="232" width="361" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="58" y="272.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,544) scale(1,-1)">LAND + CHECK</text>
+			<text x="58" y="254.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,508) scale(1,-1)">Delivered equipment must survive and report its state.</text>
+			<circle cx="28" cy="188" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="185" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,370) scale(1,-1)">2</text>
+			<rect x="48" y="164" width="361" height="58" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="48" y="164" width="361" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="58" y="204.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,408) scale(1,-1)">UNLOAD + DEPLOY</text>
+			<text x="58" y="186.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,372) scale(1,-1)">Mobility, restraint, power and recovery come first.</text>
+			<circle cx="28" cy="120" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="117" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,234) scale(1,-1)">3</text>
+			<rect x="48" y="96" width="361" height="58" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="48" y="96" width="361" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="58" y="136.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,272) scale(1,-1)">VERIFY + PRODUCE</text>
+			<text x="58" y="118.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,236) scale(1,-1)">Make a coupon; inspect it against declared criteria.</text>
+			<circle cx="28" cy="52" r="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25.71923828125" y="49" style="font-family: SansB; font-size: 9px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,98) scale(1,-1)">4</text>
+			<rect x="48" y="28" width="361" height="58" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="48" y="28" width="361" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="58" y="68.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,136) scale(1,-1)">MAINTAIN + LEARN</text>
+			<text x="58" y="50.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,100) scale(1,-1)">Use imported spares; preserve return-to-service evidence.</text>
+		</g>
+	</g>
+</svg>

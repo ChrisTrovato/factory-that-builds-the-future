@@ -1,0 +1,65 @@
+Website v3 — original cinematic concept artwork
+
+All four assets: built-in image_gen.imagegen tool; one original generation per asset; no CLI or external API fallback; no input/reference images; transparent_background false. The three initial images were generated concurrently, followed by the requested Mars scene. These are original speculative concept illustrations, not evidence of deployed hardware or demonstrated performance.
+
+Selection and inspection: first and only output for each scene, visually inspected at full returned resolution. All images have machinery concentrated on the right and quieter left composition. Lunar workshop has crisp vacuum lighting; ocean docking has local amber lights and dark water; Earth bench has tactile warm light; Mars has restrained dusk light. No visible text, logos, or interface overlays. Mars left horizon is brighter than the other assets and benefits from a website text gradient when used behind cream text.
+Processing: copied unchanged into public/assets; original generated files retained; no cropping, retouching, resizing, or format conversion.
+Dimensions: each output is 1942 x 809 pixels (approximately 2.4:1), opaque PNG.
+
+Asset: public/assets/lunar-workshop.png
+Generated source: archived locally; public asset retained in public/assets/.
+
+Exact final prompt:
+Use case: stylized-concept.
+Asset type: ultra-wide cinematic website landscape, approximately 2.4:1.
+Primary request: Original speculative concept art of a small, credible robotic seed workshop on the Moon, photographed with the visual restraint of a large-format engineering documentary.
+Scene: A stark charcoal lunar plain, shallow wheel tracks and finely detailed undisturbed regolith. Black sky with a small luminous blue-white Earth high on the right. Hard low sunlight strikes from the upper right, with razor-edged long shadows and no atmospheric haze.
+Subject: Machinery occupies the central and right two-thirds: a compact raised industrial workcell on four adjustable feet, a modular open truss, two articulated robotic arms with plausible grippers inspecting and positioning a modest structural component, shielded equipment boxes, organized external cable runs, and a short adjacent material rack. A folded transport pallet and a restrained dark solar array suggest limited resources. The workshop should feel like an early, constrained industrial experiment rather than a city or an impossibly self-sufficient factory.
+Composition: Low, wide establishing view; the right foreground has precise metal joints and dust near the workcell feet, while the terrain recedes to a clean distant ridge. Leave the left 35 percent visually quiet and dark, mostly shadowed ground and black sky, suitable for cream website text. Keep the important machinery inside the central-right area for responsive crops.
+Materials and lighting: Silver-gray aerospace metal, matte graphite, muted copper thermal blankets, small warm amber status lights, weathered but cared-for surfaces, intense white sunlight, subtle blue Earth accent, realistic scale and excellent structural legibility. Restrained documentary realism, cinematic depth and beauty, fine detail without oversaturated game aesthetics.
+Constraints: No text, labels, branding, flags, logos, interface overlays, watermark, humans, rocket flames, lasers, glowing magic, atmospheric fog, flying dust clouds, or gratuitous loose debris. Do not make the left text area busy. Opaque image, not a cutout. This is concept art and must not pretend to depict existing deployed lunar hardware.
+
+--------------------
+
+Asset: public/assets/ocean-resident.png
+Generated source: archived locally; public asset retained in public/assets/.
+
+Exact final prompt:
+Use case: stylized-concept.
+Asset type: ultra-wide cinematic website landscape, approximately 2.4:1.
+Primary request: Original physically grounded concept art of a resident deep-ocean inspection robot docking with a seafloor service station, with the almost photographic restraint of a remarkable underwater engineering documentary.
+Scene: A deep, dark blue-black ocean environment near the seafloor. Fine suspended particles catch a few nearby lights; no surface sunlight reaches this depth. Quiet sediment and scattered small rocks extend into darkness.
+Subject: The center and right two-thirds contain a plausible compact resident ROV approaching an open docking cradle fixed on a restrained seafloor platform. Two clearly readable thruster housings, protected manipulators, cables and an organized tool tray; a funnel-like mechanical guide and small contact plate make the docking geometry legible. A slim cable leads away into dark water. The vehicle is sturdy and workmanlike, with a muted yellow-ochre frame, dark pressure housings, metal fasteners, and modest signs of marine exposure. A restrained local work light reveals the cradle and sediment without a giant theatrical beam.
+Composition: Wide three-quarter establishing view from a few meters away, robot and docking cradle on the right, near-black negative space occupying the left 35 percent for cream website text. Strong foreground-to-background depth, believable scale, carefully chosen details rather than a cluttered sci-fi wreck.
+Lighting and atmosphere: Warm amber work lights on the vehicle and docking node against cool cyan-blue reflected water; subtle volumetric scattering close to lights, richly dark background, realistic underwater contrast falloff, beautiful almost documentary photography. Preserve a clean dark left region.
+Constraints: No divers, animals as spectacle, wrecks, weapons, explosive bubbles, glowing lasers, fantasy propulsion, impossible exposed electrical sparks, text, logos, UI, watermark, or exaggerated neon. No sun rays at deep-sea depth. Opaque image. This is original speculative concept art, not evidence of an existing operating facility.
+
+--------------------
+
+Asset: public/assets/earth-workbench.png
+Generated source: archived locally; public asset retained in public/assets/.
+
+Exact final prompt:
+Use case: stylized-concept.
+Asset type: ultra-wide cinematic website landscape, approximately 2.4:1.
+Primary request: A beautiful original engineering-workbench image that makes careful hands-on learning feel tangible: a small unpowered precision prototype robot arm being studied on an ordinary but thoughtful maker workbench, with natural documentary-photography credibility.
+Scene: An intimate workshop at dusk with a warm task lamp and subtle cool window light. No people. A quiet dark wall and clear work surface on the left, a carefully arranged working area on the center and right.
+Subject: A modest tabletop two-link robot-arm prototype with visible aluminum links, black joint housings and a small open gripper; its compact unpowered base sits on a simple wooden bench. Alongside are a cardboard mock-up of a removable service module, a plain steel ruler, digital calipers with an unreadable or dark display, a small screwdriver, a paper sketch with simple unlabeled geometric lines, and a few neatly organized fasteners in shallow trays. The setup should communicate measurement, iteration, repairability and accessible engineering, not a showroom or a vast expensive laboratory. The arm is mechanically plausible, with clear pivots, sensible fasteners and no trailing dangerous wiring.
+Composition: Wide cinematic view from bench height at a slight three-quarter angle. Prototype and warm lamp illumination occupy the right two-thirds. Preserve the left 35 percent as calm, dark negative space for large cream website type. Natural foreground texture, readable machinery, restrained shallow depth of field that keeps the key arm geometry and measuring tools sharp.
+Materials and lighting: Warm amber lamp light grazing brushed aluminum, soft dark rubber, pale cardboard, subtle copper accents, matte worn wood and graphite shadows. Photographic, tactile, sophisticated, welcoming, and quietly ambitious. Rich but controlled contrast; no oversaturated videogame aesthetic.
+Constraints: No people or stereotypes, no text or legible numbers, no logos, brands, watermark, UI overlays, live mains wiring, hot tools, sparks, hazardous machinery, excessive tool clutter, neon, impossible joints, or glossy toy styling. Opaque image. Original illustrative concept photography, not a claim about an actual prototype's demonstrated performance.
+
+--------------------
+
+Asset: public/assets/mars-outpost.png
+Generated source: archived locally; public asset retained in public/assets/.
+
+Exact final prompt:
+Use case: stylized-concept.
+Asset type: ultra-wide cinematic website landscape, approximately 2.4:1.
+Primary request: Original, physically restrained concept art of a robotic maintenance outpost on a rust-red Martian plain, with the credibility and visual wonder of an engineering expedition documentary.
+Scene: Copper-colored rocky soil with fine dust, a low distant mountain ridge, thin subdued dusty atmosphere, cool blue-gray dusk near the horizon and dim warm sidelight. The landscape should feel vast, dry, cold and quiet, without vegetation or fantasy weather.
+Subject: Center-right stands a compact, purposeful maintenance platform with exposed but organized modular trusses, a single articulated service arm examining the removable equipment bay of a modest six-wheeled rover. The serviceable rover module, restrained fasteners, cable routing, docking guides and rack of replacement housings tell a story of repair under constraints. Nearby are a partly folded dark solar array and a separate modest radiator panel with clear mechanical hinges. A low shielded equipment enclosure completes the small outpost. No city, giant tower, or implausible abundance.
+Composition: Wide establishing photograph from low standing height, detailed machinery in the right two-thirds, diagonal rover tracks receding toward the mountain ridge, delicate depth and generous dark quiet terrain/sky on the left 35 percent for cream website typography. Preserve machinery inside the central-right region for responsive cropping.
+Light and materials: Muted copper dusk on dusty gray metal, softly worn graphite joints, insulated equipment boxes, pale ceramic details, a few restrained amber work lights, cool ambient sky reflection. Realistic Martian illumination, tactile surfaces, disciplined scale, cinematic beauty and fine documentary detail without a videogame aesthetic.
+Constraints: No people, text, numbers, flags, logos, branding, watermark, UI, laser beams, sparks, rocket plumes, exuberant neon, liquid water, vegetation, giant looming moon, dense Earthlike clouds, or glowing magical hardware. Opaque image. This is speculative concept art, not an existing deployed Mars workshop.

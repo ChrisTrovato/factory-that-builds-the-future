@@ -1,0 +1,24 @@
+<svg width="424" height="275" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 275" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The slowest useful flow sets the pace</title>
+	<desc>Original calculation using the MERIDIAN assumptions in Chapter12. Rates refer to station accepted capacity; line flow is checked sequentially.</desc>
+	<clipPath id="clip-throughput">
+		<rect x="0" y="0" width="424" height="275"/>
+	</clipPath>
+	<g id="group-throughput" transform="scale(1,-1) translate(0,-275)" style="clip-path: url(#clip-throughput)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="275" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<text x="16" y="217" style="font-family: SansB; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,434) scale(1,-1)">Fabrication</text>
+			<rect x="112" y="210" width="216.0" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="335.0" y="217" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,434) scale(1,-1)">5.184</text>
+			<text x="16" y="159" style="font-family: SansB; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,318) scale(1,-1)">Assembly</text>
+			<rect x="112" y="152" width="193.95833333333337" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="312.95833333333337" y="159" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,318) scale(1,-1)">4.655</text>
+			<text x="16" y="101" style="font-family: SansB; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,202) scale(1,-1)">Test</text>
+			<rect x="112" y="94" width="142.5" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="261.5" y="101" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,202) scale(1,-1)">3.420</text>
+			<text x="112" y="245" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,490) scale(1,-1)">Station accepted capacity / scheduled hour</text>
+			<text x="16" y="39.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,78) scale(1,-1)">Original line: 27.36 accepted units / shift. Target: 30. Improving test to 12 minutes raises the</text>
+			<text x="16" y="26.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,52) scale(1,-1)">modeled line to 34.20.</text>
+		</g>
+	</g>
+</svg>

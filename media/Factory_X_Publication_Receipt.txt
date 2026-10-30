@@ -1,0 +1,20 @@
+FACTORY LAUNCH — PUBLISHED
+
+Account: @VeryBullishGuy
+Post: https://x.com/VeryBullishGuy/status/2116037892246216830
+Website: https://ditchthescroll.com/factory
+Published time shown by X: 10:22 PM, October 29, 2026.
+
+Published after the user's explicit instruction to post once the video was ready.
+X profile verification showed the new post with the intended caption and video.
+The individual post displayed the complete caption and the 39-second video.
+Live video playback reached 20.53 seconds with readyState 4 and no media error.
+The published short link resolved successfully to the live Factory website.
+
+Media: Factory_Thiel_Future_Builders.mp4
+39.25 seconds, 1080 × 1350, H.264 with stereo AAC.
+English subtitle file attached; readable text is also built into the video.
+X marked the upload Ready and played it without a media error before posting.
+
+Caption: see Factory_Thiel_X_Post.txt.
+Local media, source details and verification: see Factory_Thiel_Film_Notes.txt.

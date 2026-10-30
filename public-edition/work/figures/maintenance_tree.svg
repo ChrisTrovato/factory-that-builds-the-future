@@ -1,0 +1,41 @@
+<svg width="424" height="305" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 305" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>A failure is the start of a decision</title>
+	<desc>Original recovery framework. Diagnosis, access, resources and release testing determine which path is possible.</desc>
+	<clipPath id="clip-maintenance_tree">
+		<rect x="0" y="0" width="424" height="305"/>
+	</clipPath>
+	<g id="group-maintenance_tree" transform="scale(1,-1) translate(0,-305)" style="clip-path: url(#clip-maintenance_tree)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="305" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="131" y="229" width="162" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="131" y="229" width="162" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="141" y="276.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,552) scale(1,-1)">OBSERVE</text>
+			<text x="141" y="258.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,516) scale(1,-1)">What changed?</text>
+			<rect x="131" y="130" width="162" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="131" y="130" width="162" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="141" y="177.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,354) scale(1,-1)">DIAGNOSE</text>
+			<text x="141" y="159.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,318) scale(1,-1)">Which cause fits the evidence?</text>
+			<rect x="14" y="27" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="27" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="74.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,148) scale(1,-1)">LOCAL REPAIR</text>
+			<text x="24" y="56.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,112) scale(1,-1)">Tools + access + parts</text>
+			<rect x="152" y="27" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="152" y="27" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="162" y="74.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,148) scale(1,-1)">MODULE SWAP</text>
+			<text x="162" y="56.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,112) scale(1,-1)">Known replacement</text>
+			<rect x="290" y="27" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="27" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="300" y="74.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,148) scale(1,-1)">WAIT / REDESIGN</text>
+			<text x="300" y="56.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,112) scale(1,-1)">Preserve recoverability</text>
+			<path d="M 212,226 L 212,198 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="212 198, 214.3971 202.3879, 209.6029 202.3879" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 212,127 L 74,95 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="74 95, 78.81599 93.65602, 77.73301 98.32636" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 212,127 L 212,95 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="212 95, 214.3971 99.38791, 209.6029 99.38791" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 212,127 L 350,95 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="350 95, 346.267 98.32636, 345.184 93.65602" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="19" y="10" style="font-family: SansB; font-size: 9px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,20) scale(1,-1)">Every path returns through a release test.</text>
+		</g>
+	</g>
+</svg>

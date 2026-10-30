@@ -1,0 +1,25 @@
+<svg width="424" height="240" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 240" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The arm moves its own world</title>
+	<desc>Qualitative free-floating reaction diagram. Arrow lengths do not encode a measured velocity.</desc>
+	<clipPath id="clip-orbital_momentum">
+		<rect x="0" y="0" width="424" height="240"/>
+	</clipPath>
+	<g id="group-orbital_momentum" transform="scale(1,-1) translate(0,-240)" style="clip-path: url(#clip-orbital_momentum)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="240" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="50" y="69" width="113" height="82" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<text x="94.3017578125" y="105" style="font-family: SansB; font-size: 11px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,210) scale(1,-1)">BASE</text>
+			<path d="M 163,110 L 238,160 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 6;"/>
+			<path d="M 238,160 L 322,125 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 6;"/>
+			<circle cx="238" cy="160" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<rect x="322" y="112" width="50" height="29" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<path d="M 78,177 L 130,177 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="130 177, 125.6121 179.3971, 125.6121 174.6029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 326,177 L 274,177 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="274 177, 278.3879 174.6029, 278.3879 179.3971" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="18" y="216" style="font-family: SansB; font-size: 11px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,432) scale(1,-1)">Internal motion changes the base response.</text>
+			<text x="18" y="39.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,78) scale(1,-1)">For an isolated system, total momentum is conserved. Grasping and moving a payload couples</text>
+			<text x="18" y="26.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,52) scale(1,-1)">arm, base and flexible structure.</text>
+		</g>
+	</g>
+</svg>

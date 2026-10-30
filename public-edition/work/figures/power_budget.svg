@@ -1,0 +1,35 @@
+<svg width="424" height="270" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 270" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The two promises of electrical supply</title>
+	<desc>All inputs are illustrative. Energy capacity and peak-power capability must be checked separately.</desc>
+	<clipPath id="clip-power_budget">
+		<rect x="0" y="0" width="424" height="270"/>
+	</clipPath>
+	<g id="group-power_budget" transform="scale(1,-1) translate(0,-270)" style="clip-path: url(#clip-power_budget)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="270" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="15" y="171" width="116" height="73" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="15" y="171" width="116" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="25" y="226.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,452) scale(1,-1)">MACHINE</text>
+			<text x="25" y="208.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,416) scale(1,-1)">2 kW x 3 h = 6 kWh</text>
+			<rect x="154" y="171" width="116" height="73" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="154" y="171" width="116" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="164" y="226.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,452) scale(1,-1)">SUPPORT</text>
+			<text x="164" y="208.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,416) scale(1,-1)">0.5 kW x 8 h = 4 kWh</text>
+			<rect x="293" y="171" width="116" height="73" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="293" y="171" width="116" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="303" y="226.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,452) scale(1,-1)">CELL TOTAL</text>
+			<text x="303" y="208.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,416) scale(1,-1)">10 kWh in the shift</text>
+			<path d="M 133,207 L 150,207 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="150 207, 145.6121 209.3971, 145.6121 204.6029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 272,207 L 290,207 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="290 207, 285.6121 209.3971, 285.6121 204.6029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="18" y="136" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,272) scale(1,-1)">ENERGY</text>
+			<text x="140" y="136" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,272) scale(1,-1)">An amount accumulated over time.</text>
+			<text x="18" y="106" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,212) scale(1,-1)">POWER</text>
+			<text x="140" y="106" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,212) scale(1,-1)">The instantaneous rate of delivery.</text>
+			<path d="M 18,88 L 406,88 Z" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="18" y="65.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,130) scale(1,-1)">Battery example: 12 kWh x 0.80 usable x 0.90 conversion = 8.64 kWh delivered. Peak-power</text>
+			<text x="18" y="52.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,104) scale(1,-1)">capability is a separate requirement.</text>
+		</g>
+	</g>
+</svg>

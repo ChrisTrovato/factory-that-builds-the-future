@@ -1,0 +1,32 @@
+<svg width="424" height="310" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 310" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>A yard must coordinate geometry and access</title>
+	<desc>Original schematic, not a depiction of a particular ship or shipyard.</desc>
+	<clipPath id="clip-shipyard">
+		<rect x="0" y="0" width="424" height="310"/>
+	</clipPath>
+	<g id="group-shipyard" transform="scale(1,-1) translate(0,-310)" style="clip-path: url(#clip-shipyard)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="310" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<polygon points="40 75, 105 86, 129 136, 64 125" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<path d="M 65,83 L 89,133 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="120 89, 185 100, 209 150, 144 139" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<path d="M 145,97 L 169,147 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="200 103, 265 114, 289 164, 224 153" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<path d="M 225,111 L 249,161 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="280 117, 345 128, 369 178, 304 167" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(86%,90%,92%); fill-rule: evenodd;"/>
+			<path d="M 305,125 L 329,175 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 42,54 L 42,251 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 4;"/>
+			<path d="M 378,111 L 378,251 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 4;"/>
+			<path d="M 42,251 L 378,251 Z" style="stroke: rgb(6%,17%,25%); stroke-linecap: butt; stroke-width: 5;"/>
+			<path d="M 229,251 L 229,199 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 229,199 L 193,155 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 229,199 L 268,168 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="18" y="286" style="font-family: SansB; font-size: 9.3px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,572) scale(1,-1)">BLOCKS + ACCESS + MEASUREMENT + SHARED RESOURCES</text>
+			<text x="19" y="31.0" style="font-family: Sans; font-size: 10px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,62) scale(1,-1)">Assembly order determines what tools can reach. Heat and handling change as-built geometry.</text>
+			<text x="282" y="226" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,452) scale(1,-1)">shared crane</text>
+			<text x="57" y="203" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,406) scale(1,-1)">module interface</text>
+			<path d="M 113,196 L 122,151 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="122 151, 123.49 155.7728, 118.7889 154.8326" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "factory-that-builds-the-future",
+  "private": true,
+  "version": "4.0.0",
+  "type": "module",
+  "description": "An interactive engineering learning world connecting foundational coursework to physical systems.",
+  "scripts": {
+    "check": "node check_all.mjs",
+    "log": "node scripts/log-work.mjs"
+  }
+}

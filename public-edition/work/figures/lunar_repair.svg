@@ -1,0 +1,49 @@
+<svg width="424" height="254" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 254" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The supported lunar repair sequence</title>
+	<desc>MERIDIAN-L fictional recovery. The delivered support fixture and imported cartridge make the repair possible.</desc>
+	<clipPath id="clip-lunar_repair">
+		<rect x="0" y="0" width="424" height="254"/>
+	</clipPath>
+	<g id="group-lunar_repair" transform="scale(1,-1) translate(0,-254)" style="clip-path: url(#clip-lunar_repair)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="254" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="14" y="165" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="165" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="212.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,424) scale(1,-1)">SECURE LOAD</text>
+			<text x="24" y="194.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,388) scale(1,-1)">Confirm the support state</text>
+			<path d="M 136,197.5 L 149,197.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="149 197.5, 144.6121 199.8971, 144.6121 195.1029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="152" y="165" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="152" y="165" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="162" y="212.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,424) scale(1,-1)">DIAGNOSE</text>
+			<text x="162" y="194.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,388) scale(1,-1)">Bounded tests, no forced</text>
+			<text x="162" y="182.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,364) scale(1,-1)">motion</text>
+			<path d="M 274,197.5 L 287,197.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="287 197.5, 282.6121 199.8971, 282.6121 195.1029" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="290" y="165" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="165" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="300" y="212.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,424) scale(1,-1)">CONFIRM ACCESS</text>
+			<text x="300" y="194.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,388) scale(1,-1)">Tools and evidence ready</text>
+			<path d="M 350,163 L 350,145 Z" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 3, 2;"/>
+			<polygon points="350 145, 352.3971 149.3879, 347.6029 149.3879" style="stroke: rgb(72%,42%,27%); stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<rect x="290" y="76" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="76" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="300" y="123.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,246) scale(1,-1)">SWAP CARTRIDGE</text>
+			<text x="300" y="105.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,210) scale(1,-1)">Imported spares: two to</text>
+			<text x="300" y="93.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,186) scale(1,-1)">one</text>
+			<path d="M 288,108.5 L 275,108.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="275 108.5, 279.3879 106.1029, 279.3879 110.8971" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="152" y="76" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="152" y="76" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="162" y="123.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,246) scale(1,-1)">QUARANTINE</text>
+			<text x="162" y="105.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,210) scale(1,-1)">Retain the failed module</text>
+			<path d="M 150,108.5 L 137,108.5 Z" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="137 108.5, 141.3879 106.1029, 141.3879 110.8971" style="stroke: rgb(7%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<rect x="14" y="76" width="120" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="76" width="120" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="24" y="123.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,246) scale(1,-1)">RELEASE TEST</text>
+			<text x="24" y="105.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,210) scale(1,-1)">Staged return to service</text>
+			<text x="15" y="24.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,48) scale(1,-1)">No internal actuator rebuilding capability is assumed.</text>
+		</g>
+	</g>
+</svg>

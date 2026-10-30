@@ -1,0 +1,117 @@
+THE FACTORY — SOCIAL LAUNCH KIT
+Canonical link: https://ditchthescroll.com/factory
+Prepared for review. Nothing has been posted to X.
+
+RECOMMENDED: OPTION 1 + Factory_Launch_02.png
+The first two lines turn familiar coursework into something worth making. The writing connection distinguishes this from a generic math simulator. It names the audience's question without insulting school or promising instant engineering competence.
+
+COPY-READY POSTS
+Copy only the text between each START and END marker. Counts include spaces and line breaks, with the URL counted as 23 characters. All three copies use ASCII to avoid ambiguous Unicode weighting.
+
+OPTION 1 — THE CONNECTION / recommended
+Estimated X weighted length: 214/280
+START
+That triangle on your worksheet can be a robot arm.
+That writing assignment can be a design review.
+
+I made The Factory to connect math and gen-ed classes to the machines you want to build.
+
+https://ditchthescroll.com/factory
+END
+
+OPTION 2 — SHOW THE INTERACTION
+Estimated X weighted length: 233/280
+START
+Drag a slider. Watch the arm move.
+Change a gear. Change the speed.
+
+The Factory connects math to machines through 8 interactive models, short lessons, and projects from a paper linkage to a rover simulation.
+
+https://ditchthescroll.com/factory
+END
+
+OPTION 3 — EXPLORE THE WHOLE WORLD
+Estimated X weighted length: 230/280
+START
+Pick a world: Earth, ocean, orbit, Moon, Mars.
+Then follow its machines back to the math.
+
+Explore The Factory: 34 lessons, 36 practice cards, 8 build blueprints, 8 interactive models, and a 287-page book.
+
+https://ditchthescroll.com/factory
+END
+
+WHY THE THREE OPTIONS ARE DIFFERENT
+1. Recognition: a classroom triangle and a writing assignment become engineering tools. Best for students and curious people who have lost sight of what the foundations are for.
+2. Demonstration: names a specific action and an immediate visible response. Pair with Factory_Launch_01.png for this prepared kit. A short recording of the real sliders would be an optional future demonstration; no recording has been created.
+3. Discovery: names five destinations and the actual depth behind them. Best for an audience already drawn to engineering, space, and substantial learning projects.
+
+THE VISUAL PAIR
+Use Option 1 with Factory_Launch_02.png. Its headline, "That boring equation builds this.", and its desk-sketch-to-space-robot composition make the coursework connection immediate. This is the strongest pairing for the recommended launch post.
+
+Pair Option 2 with Factory_Launch_01.png, the orbital-yard poster reading "Stop scrolling. Start building." Pair Option 3 with Factory_Launch_03.png, the five-world poster with the 34/36/8 learning counts. Factory_Link_Preview.png is the separate wide card for the shared link.
+
+Optional future motion version — not created or included: record 8–12 seconds of the real arm slider, with link length fixed at 1.20 m and angle moving from 30° to 60°. The horizontal reach falls from about 1.039 m to 0.600 m while vertical reach rises from 0.600 m to about 1.039 m. Finish on the product name and URL. Record the actual interaction and make it understandable without sound.
+
+All four supplied graphics are original promotional concept illustrations, not screenshots or evidence of deployed hardware. Their alt text identifies this distinction.
+
+ALT TEXT FOR THE FINISHED MEDIA
+Use the matching entry in Factory_Launch_Alt_Text.txt for each supplied graphic. The file describes the actual finished images and their visible text.
+Only if a real demonstration is later recorded, adapt this optional description to what it shows: "With the arm length fixed at 1.20 meters, the angle moves from 30 to 60 degrees. Horizontal reach decreases from about 1.039 to 0.600 meters, and vertical reach increases from 0.600 to 1.039 meters. The slider, arm, and numerical results change together."
+Do not attach the proposed recording description to a static image.
+
+OPTIONAL FOLLOW-UP MINI-THREAD
+Use one or both as replies only when they add useful orientation. Do not post all three launch alternatives as a blast.
+
+REPLY 1 — estimated weighted length 237/280
+START
+A good first visit:
+1. Pick a world.
+2. Open Math Studio and predict what a slider will change.
+3. Try five practice questions.
+4. Build a paper linkage or keep a question in your workshop.
+
+No streak to protect. Just a useful next step.
+END
+
+REPLY 2 — estimated weighted length 254/280
+START
+The models show their assumptions and worked arithmetic. The worlds use concept art; they aren't claims that these factories exist.
+
+The workshop saves notes and progress locally, with backup export. Start anywhere and follow what catches your attention.
+END
+
+CREATOR-OWNED REFERENCES AND WHAT TO LEARN FROM THEM
+These are observed presentation and launch patterns, not a dataset proving virality. No engagement totals, conversion rates, or guaranteed reach are claimed. Original X launch posts were not reliably retrievable, so no X performance conclusions are drawn.
+
+1. Bartosz Ciechanowski — Gears
+https://ciechanow.ski/gears/
+Observed: the page begins with moving mechanical parts, then gives readers a speed slider and builds toward the underlying relationships.
+Launch lesson (our inference): show one physical consequence immediately. A real arm or gear interaction can carry the first frame; a long description of the platform can wait.
+
+2. Neal Agarwal — Space Elevator
+https://neal.fun/space-elevator/
+Observed: the project presents an upward journey through the atmosphere, with an explicit scrolling action and discoveries along the route.
+Launch lesson (our inference): a clear destination makes a large subject approachable. The Factory's five worlds can invite exploration before asking someone to choose a chapter.
+
+3. Nicky Case — The Evolution of Trust, creator announcement and sharing text
+https://blog.ncase.me/the-evolution-of-trust-is-out/
+https://ncase.me/trust/
+https://github.com/ncase/trust/blob/gh-pages/index.html
+Observed: the creator's announcement names a playable guide and links directly to it. The project's own sharing text leads with a recognizable human problem, then offers an interactive explanation. The blog acknowledges that its displayed date was backdated, so it is not used to establish an exact launch day.
+Launch lesson (our inference): connect an abstract subject to an existing concern. For The Factory, that concern is the gap between coursework and the machines someone wants to understand or build.
+
+4. Red Blob Games — A* and a creator release writeup
+https://www.redblobgames.com/pathfinding/a-star/introduction.html
+https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/
+Observed: the A* introduction immediately invites moving the start and endpoint to change a route. The creator's August 2026 release writeup explains how revised visualizations made a difficult idea clearer and identifies remaining room for improvement.
+Launch lesson (our inference): make the input-to-result relationship visible and keep claims bounded. A small, honest demonstration is a stronger proof of usefulness than calling the whole platform revolutionary.
+
+CHARACTER-COUNT REFERENCE
+https://docs.x.com/fundamentals/counting-characters
+X documents weighted counting and a 23-character charge for a detected URL. Counts above were computed from the exact ASCII copies and preserved line breaks using that URL rule. Confirm the composer accepts the final copy after any edits.
+
+PUBLISHING NOTES
+Use the canonical /factory link after the final public route and its preview have been verified. The feature counts reflect this prepared edition: 34 lessons, 36 practice cards, 8 build blueprints, 8 interactive models, 5 worlds, and a 287-page book. These are learning resources and illustrative models, not accreditation or a substitute for an engineering degree.
+
+There is no reason to add "comment for the link," unrelated hashtags, mass tagging, invented testimonials, or claims that this will go viral. Put the useful experience in the post and let people try it.

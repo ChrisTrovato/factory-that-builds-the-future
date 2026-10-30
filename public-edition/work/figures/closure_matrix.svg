@@ -1,0 +1,60 @@
+<svg width="424" height="300" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 300" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Closure has more than one dimension</title>
+	<desc>Book framework. Earth local structure means machining imported stock. Reference hardware is imported while measurements are performed locally. Categories are not closure percentages.</desc>
+	<clipPath id="clip-closure_matrix">
+		<rect x="0" y="0" width="424" height="300"/>
+	</clipPath>
+	<g id="group-closure_matrix" transform="scale(1,-1) translate(0,-300)" style="clip-path: url(#clip-closure_matrix)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="300" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<text x="18" y="272" style="font-family: SansB; font-size: 10px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,544) scale(1,-1)">DEPENDENCY MATRIX / ILLUSTRATIVE BOUNDARIES</text>
+			<text x="165.6328125" y="240" style="font-family: SansB; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,480) scale(1,-1)">Earth cell</text>
+			<text x="242.56591796875" y="240" style="font-family: SansB; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,480) scale(1,-1)">Orbital yard</text>
+			<text x="325.113037109375" y="240" style="font-family: SansB; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,480) scale(1,-1)">Lunar study</text>
+			<text x="15" y="202" style="font-family: Sans; font-size: 9.5px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,404) scale(1,-1)">Bulk structure</text>
+			<rect x="151" y="194" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="180.8857421875" y="202" style="font-family: SansB; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,404) scale(1,-1)">L</text>
+			<rect x="233" y="194" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="263.6669921875" y="202" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,404) scale(1,-1)">I</text>
+			<rect x="315" y="194" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="344.3388671875" y="202" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,404) scale(1,-1)">P</text>
+			<text x="15" y="173" style="font-family: Sans; font-size: 9.5px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,346) scale(1,-1)">Precision motion</text>
+			<rect x="151" y="165" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="181.6669921875" y="173" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,346) scale(1,-1)">I</text>
+			<rect x="233" y="165" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="263.6669921875" y="173" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,346) scale(1,-1)">I</text>
+			<rect x="315" y="165" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="345.6669921875" y="173" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,346) scale(1,-1)">I</text>
+			<text x="15" y="144" style="font-family: Sans; font-size: 9.5px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,288) scale(1,-1)">Electronics</text>
+			<rect x="151" y="136" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="181.6669921875" y="144" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,288) scale(1,-1)">I</text>
+			<rect x="233" y="136" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="263.6669921875" y="144" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,288) scale(1,-1)">I</text>
+			<rect x="315" y="136" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="345.6669921875" y="144" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,288) scale(1,-1)">I</text>
+			<text x="15" y="115" style="font-family: Sans; font-size: 9.5px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,230) scale(1,-1)">Consumables</text>
+			<rect x="151" y="107" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="181.6669921875" y="115" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,230) scale(1,-1)">I</text>
+			<rect x="233" y="107" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="263.6669921875" y="115" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,230) scale(1,-1)">I</text>
+			<rect x="315" y="107" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="345.6669921875" y="115" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,230) scale(1,-1)">I</text>
+			<text x="15" y="86" style="font-family: Sans; font-size: 9.5px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,172) scale(1,-1)">Reference hardware</text>
+			<rect x="151" y="78" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="181.6669921875" y="86" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,172) scale(1,-1)">I</text>
+			<rect x="233" y="78" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="263.6669921875" y="86" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,172) scale(1,-1)">I</text>
+			<rect x="315" y="78" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="345.6669921875" y="86" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,172) scale(1,-1)">I</text>
+			<text x="15" y="57" style="font-family: Sans; font-size: 9.5px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,114) scale(1,-1)">Specialist support</text>
+			<rect x="151" y="49" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="180.56103515625" y="57" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,114) scale(1,-1)">E</text>
+			<rect x="233" y="49" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="262.56103515625" y="57" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,114) scale(1,-1)">E</text>
+			<rect x="315" y="49" width="64" height="23" style="stroke: rgb(100%,100%,100%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,93%,92%); fill-rule: evenodd;"/>
+			<text x="344.56103515625" y="57" style="font-family: SansB; font-size: 10px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,114) scale(1,-1)">E</text>
+			<text x="15" y="30.0" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,60) scale(1,-1)">L local in declared scope / I imported / P proposed local process / E external expertise. A mass percentage</text>
+			<text x="15" y="18.299999999999997" style="font-family: Sans; font-size: 9px;fill: rgb(14%,21%,26%); stroke:none;" transform="translate(0,36) scale(1,-1)">cannot replace this map.</text>
+		</g>
+	</g>
+</svg>

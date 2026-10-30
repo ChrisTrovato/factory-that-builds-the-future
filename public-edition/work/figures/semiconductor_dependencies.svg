@@ -1,0 +1,41 @@
+<svg width="424" height="285" preserveAspectRatio="xMinYMin meet" viewBox="0 0 424 285" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>The industrial network inside a chip</title>
+	<desc>Simplified dependency map. It omits many specialized processes and suppliers.</desc>
+	<clipPath id="clip-semiconductor_dependencies">
+		<rect x="0" y="0" width="424" height="285"/>
+	</clipPath>
+	<g id="group-semiconductor_dependencies" transform="scale(1,-1) translate(0,-285)" style="clip-path: url(#clip-semiconductor_dependencies)">
+		<g transform="">
+			<rect x="0" y="0" width="424" height="285" rx="5" ry="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,95%,93%); fill-rule: evenodd;"/>
+			<rect x="141" y="116" width="142" height="65" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="141" y="116" width="142" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(7%,49%,50%); fill-rule: evenodd;"/>
+			<text x="151" y="163.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(7%,49%,50%); stroke:none;" transform="translate(0,326) scale(1,-1)">WORKING CHIP</text>
+			<text x="151" y="145.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,290) scale(1,-1)">One small item; many process</text>
+			<text x="151" y="133.3" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,266) scale(1,-1)">capabilities</text>
+			<rect x="14" y="207" width="124" height="63" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="207" width="124" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="24" y="252.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,504) scale(1,-1)">MATERIALS</text>
+			<text x="24" y="234.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,468) scale(1,-1)">Purity, gases, chemicals</text>
+			<path d="M 76,207 L 212,181 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="212 181, 208.1403 184.1784, 207.24 179.4695" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<rect x="286" y="207" width="124" height="63" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="286" y="207" width="124" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="296" y="252.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,504) scale(1,-1)">PATTERNING</text>
+			<text x="296" y="234.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,468) scale(1,-1)">Optics, masks, equipment</text>
+			<path d="M 348,207 L 212,181 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="212 181, 216.76 179.4695, 215.8597 184.1784" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<rect x="14" y="27" width="124" height="63" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="14" y="27" width="124" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="24" y="72.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,144) scale(1,-1)">CONTROL</text>
+			<text x="24" y="54.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,108) scale(1,-1)">Cleanroom + stable utilities</text>
+			<path d="M 76,90 L 212,116 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="212 116, 207.24 117.5305, 208.1403 112.8216" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+			<rect x="286" y="27" width="124" height="63" rx="4" ry="4" style="stroke: rgb(91%,93%,92%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="286" y="27" width="124" height="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,42%,27%); fill-rule: evenodd;"/>
+			<text x="296" y="72.0" style="font-family: SansB; font-size: 10.5px;fill: rgb(72%,42%,27%); stroke:none;" transform="translate(0,144) scale(1,-1)">FINISH</text>
+			<text x="296" y="54.0" style="font-family: Sans; font-size: 9px;fill: rgb(40%,46%,50%); stroke:none;" transform="translate(0,108) scale(1,-1)">Metrology, packaging, test</text>
+			<path d="M 348,90 L 212,116 Z" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="212 116, 215.8597 112.8216, 216.76 117.5305" style="stroke: rgb(40%,46%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(40%,46%,50%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

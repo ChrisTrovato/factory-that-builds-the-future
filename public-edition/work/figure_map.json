@@ -1,0 +1,197 @@
+[
+  {
+    "key": "industrial_loop",
+    "page": 13,
+    "title": "01 / The industrial feedback loop"
+  },
+  {
+    "key": "history",
+    "page": 20,
+    "title": "02 / The accumulated ability to repeat"
+  },
+  {
+    "key": "release_gates",
+    "page": 31,
+    "title": "03 / From intention to accepted hardware"
+  },
+  {
+    "key": "exploded_carrier",
+    "page": 37,
+    "title": "04 / A small, serviceable machine interface"
+  },
+  {
+    "key": "assembly_sequence",
+    "page": 42,
+    "title": "05 / Guide before you retain"
+  },
+  {
+    "key": "calibration_chain",
+    "page": 45,
+    "title": "06 / Who checks the checker?"
+  },
+  {
+    "key": "tolerance_stack",
+    "page": 47,
+    "title": "07 / The clearance that survives the limits"
+  },
+  {
+    "key": "small_parts_1",
+    "page": 55,
+    "title": "08 / The Small Parts That Hold Up the Big Future / I"
+  },
+  {
+    "key": "small_parts_2",
+    "page": 56,
+    "title": "09 / The Small Parts That Hold Up the Big Future / II"
+  },
+  {
+    "key": "semiconductor_dependencies",
+    "page": 58,
+    "title": "10 / The industrial network inside a chip"
+  },
+  {
+    "key": "manufacturing_choice",
+    "page": 63,
+    "title": "11 / Choose the process for the requirement"
+  },
+  {
+    "key": "robot_forms",
+    "page": 72,
+    "title": "12 / The environment helps choose the robot"
+  },
+  {
+    "key": "control_loop",
+    "page": 78,
+    "title": "13 / Planning meets physical feedback"
+  },
+  {
+    "key": "coordinate_frames",
+    "page": 80,
+    "title": "14 / A coordinate is a relationship"
+  },
+  {
+    "key": "maintenance_tree",
+    "page": 88,
+    "title": "15 / A failure is the start of a decision"
+  },
+  {
+    "key": "power_budget",
+    "page": 95,
+    "title": "16 / The two promises of electrical supply"
+  },
+  {
+    "key": "heat_worlds",
+    "page": 99,
+    "title": "17 / The same heat, three different exits"
+  },
+  {
+    "key": "throughput",
+    "page": 104,
+    "title": "18 / The slowest useful flow sets the pace"
+  },
+  {
+    "key": "growth",
+    "page": 108,
+    "title": "19 / Growth under declared constraints"
+  },
+  {
+    "key": "evidence_ladder",
+    "page": 114,
+    "title": "20 / Ask what the demonstration establishes"
+  },
+  {
+    "key": "digital_thread",
+    "page": 118,
+    "title": "21 / The product carries a history"
+  },
+  {
+    "key": "shipyard",
+    "page": 121,
+    "title": "22 / A yard must coordinate geometry and access"
+  },
+  {
+    "key": "ocean_residency",
+    "page": 131,
+    "title": "23 / A resident robot is more than a vehicle"
+  },
+  {
+    "key": "orbital_yard",
+    "page": 139,
+    "title": "24 / A modest orbital assembly yard"
+  },
+  {
+    "key": "orbital_momentum",
+    "page": 143,
+    "title": "25 / The arm moves its own world"
+  },
+  {
+    "key": "orbital_economics",
+    "page": 148,
+    "title": "26 / What must earn its place in orbit?"
+  },
+  {
+    "key": "lunar_deployment",
+    "page": 158,
+    "title": "27 / The first factory must first start"
+  },
+  {
+    "key": "lunar_imports",
+    "page": 164,
+    "title": "28 / What still has to arrive?"
+  },
+  {
+    "key": "lunar_repair",
+    "page": 169,
+    "title": "29 / The supported lunar repair sequence"
+  },
+  {
+    "key": "mars_logistics",
+    "page": 177,
+    "title": "30 / Distance turns logistics into autonomy requirements"
+  },
+  {
+    "key": "closure_matrix",
+    "page": 185,
+    "title": "31 / Closure has more than one dimension"
+  },
+  {
+    "key": "future_horizons",
+    "page": 186,
+    "title": "32 / Milestones before calendars"
+  },
+  {
+    "key": "math_path",
+    "page": 195,
+    "title": "33 / Mathematics becomes a language for hardware"
+  },
+  {
+    "key": "subject_hardware",
+    "page": 205,
+    "title": "34 / Courses become engineering questions"
+  },
+  {
+    "key": "degree_path",
+    "page": 209,
+    "title": "35 / A conditional route into aerospace engineering"
+  },
+  {
+    "key": "project_ladder",
+    "page": 214,
+    "title": "36 / Build evidence before complexity"
+  },
+  {
+    "key": "career_roles",
+    "page": 225,
+    "title": "37 / Different roles, shared physical systems"
+  },
+  {
+    "key": "research_cycle",
+    "page": 236,
+    "title": "38 / From an apparatus to a research contribution"
+  },
+  {
+    "key": "graduate_decision",
+    "page": 253,
+    "title": "39 / Choose graduate study by the work"
+  }
+]
