@@ -22,3 +22,15 @@ Evidence: [live site](https://ditchthescroll.com/factory), [test runner](../chec
 - Reran the nine validation suites against the packaged source and checked the staged files before publication.
 
 Evidence: [README](../README.md), [case study](case-study.md), [validation](validation.md), [daily log helper](../scripts/log-work.mjs).
+
+## 2026-10-31 — Aerospace Plan integration
+
+- Added the independent Aerospace Plan under `public/official_aero_plan/`, with the canonical publication address [christrovato.com/official_aero_plan](https://www.christrovato.com/official_aero_plan).
+- Integrated the researched Southwestern-to-UCSD pathway, course explorer and scenario planner, study guidance, project ladder, specialization/career exploration, and 2035+ engineering scenarios. The evidence ledger distinguishes current policy, historical templates, assumptions and unresolved advising questions.
+- Added restrained navigation and footer links from the Factory. Preserved existing lesson/project IDs, hash routes, Factory state keys and interactions.
+- Kept course records, notes and scenarios in a separate browser-local notebook with validated JSON backup. Public files contain educational content and code, not private transcripts, chat histories or exported personal state.
+- Extended the explicit deployment allowlist and added exact Vercel entry rewrites for both `/official_aero_plan` and `/official_aero_plan/`. Extended the default check runner to cover `.mjs` source and the four Aerospace Plan test files.
+- Validation: `npm run check` passed 28 module syntax checks, all nine existing Factory suites and all four Aerospace Plan files (37 tests). A separate `node --test` run also passed all 37. All 61 allowlisted assets exist, including 13 new production files; the copied production source matched the frozen source by hash. Local HTTP checks returned 200 for the Factory shell, both Aerospace Plan entry forms, its module and hero asset.
+- Browser review verified the 390px and 768px layouts, local backup restore, no-slash navigation, keyboard skip link, and the Factory's new link. The canonical route was published and its live search, initially empty planner and interactive arm control were checked. See [release notes](aerospace-release.md) for hosting details.
+
+Evidence: [Aerospace source and maintenance guide](../public/official_aero_plan/README.md), [academic data](../public/official_aero_plan/academic-data.mjs), [test runner](../check_all.mjs), [deployment allowlist](../prepare_deploy.py).

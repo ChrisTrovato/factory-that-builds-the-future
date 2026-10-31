@@ -21,6 +21,14 @@
   ],
   "rewrites": [
     {
+      "source": "/official_aero_plan",
+      "destination": "/official_aero_plan/index.html"
+    },
+    {
+      "source": "/official_aero_plan/",
+      "destination": "/official_aero_plan/index.html"
+    },
+    {
       "source": "/factory/:path*",
       "destination": "/:path*"
     }

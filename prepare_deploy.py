@@ -23,6 +23,15 @@ PUBLIC_FILES = (
     "assets/shipyard-hero.png", "assets/lunar-workshop.png",
     "assets/ocean-resident.png", "assets/earth-workbench.png",
     "assets/mars-outpost.png", "assets/launch-v4.png",
+    "official_aero_plan/index.html", "official_aero_plan/styles.css",
+    "official_aero_plan/app.mjs", "official_aero_plan/engine.mjs",
+    "official_aero_plan/academic-data.mjs", "official_aero_plan/future-data.mjs",
+    "official_aero_plan/learning-content.mjs", "official_aero_plan/labs.mjs",
+    "official_aero_plan/favicon.svg",
+    "official_aero_plan/assets/earth-workbench.webp",
+    "official_aero_plan/assets/lunar-workshop.webp",
+    "official_aero_plan/assets/ocean-resident.webp",
+    "official_aero_plan/assets/orbital-workshop.webp",
 )
 
 

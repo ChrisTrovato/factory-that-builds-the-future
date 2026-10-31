@@ -4,6 +4,8 @@ An interactive engineering learning world that connects the math on a worksheet 
 
 **[Explore the live website](https://ditchthescroll.com/factory)** · **[Read the engineering case study](docs/case-study.md)** · **[Work log](docs/work-log.md)** · **[Published launch film](https://x.com/VeryBullishGuy/status/2116037892246216830)**
 
+**[Open the Aerospace Plan](https://www.christrovato.com/official_aero_plan)** — a companion for the Southwestern-to-UC San Diego journey, course planning, engineering projects, study habits, specialization choices, and problems worth solving in 2035 and beyond. Its source lives at [public/official_aero_plan](public/official_aero_plan/README.md); academic evidence is dated October 31, 2026 and must be refreshed for the applicable future year.
+
 ![The Factory: from equations to orbital machinery](docs/screenshots/site-home.png)
 
 ## What you can do
@@ -29,11 +31,19 @@ python preview_public.py
 
 Open **http://127.0.0.1:8777/factory/**. Use HTTP, rather than opening index.html directly, so ES modules and JSON loading work.
 
+The Aerospace Plan is available at **http://127.0.0.1:8777/official_aero_plan/**. The canonical publication address is **https://www.christrovato.com/official_aero_plan**. Its hash navigation works beneath that dedicated route without replacing the Factory application.
+
 ```sh
 npm run check
 ```
 
-The check runner validates **22 JavaScript modules and nine substantive suites**, including model calculations, energy accounting, rover solutions, inverse geometry, keyboard/lifecycle behavior, content references, and backup merging. No npm dependencies need to be installed.
+The check runner validates the public JavaScript modules, **nine Factory suites and four Aerospace Plan suites**, including model calculations, energy accounting, rover solutions, inverse geometry, keyboard/lifecycle behavior, content references, backup handling, articulation logic, units, and educational simulations. No npm dependencies need to be installed.
+
+To run only the Aerospace Plan suites:
+
+```sh
+node --test public/official_aero_plan/engine.test.mjs public/official_aero_plan/academic-integration.test.mjs public/official_aero_plan/state-integration.test.mjs public/official_aero_plan/labs.test.mjs
+```
 
 ## For reviewers and employers
 
@@ -54,6 +64,7 @@ This project was developed with substantial Codex assistance across research, co
 
 ```text
 public/                 Deployable static website, book, and assets
+public/official_aero_plan/ Aerospace companion, data, local-state engine and tests
 public-edition/         Public book chapters, figures, research, builders, outputs
 check_*.mjs             Nine validation suites and the common runner
 docs/                   Case study, architecture, work log, screenshots, provenance
@@ -63,6 +74,14 @@ scripts/log-work.mjs    Append an honest, dated development-log entry
 ```
 
 See [architecture and deployment](docs/architecture.md) for storage, route behavior, and the publishing boundary. Only `public/` is deployed; the live domain's other projects are not managed by this repository.
+
+## Maintain the Aerospace Plan
+
+Public academic content is separate from personal course records, notes and scenarios. The app saves those entries in the current browser's localStorage; they are not uploaded or synchronized across devices, browsers or hostnames. Use **Progress & backup** to export JSON before clearing storage or changing devices. Review the import preview before replacing a notebook, and keep exported personal records out of Git.
+
+Update institutional facts in `public/official_aero_plan/academic-data.mjs`, future research and project content in `future-data.mjs`, and learning guidance in `learning-content.mjs`. Preserve course aliases, stable IDs, source dates and AND/OR articulation relationships. Recheck admissions for the application cycle, ASSIST for the actual course year, and offerings before registration; a historical transfer grid is not a future schedule or official degree audit. The [Aerospace Plan maintenance guide](public/official_aero_plan/README.md) documents schemas, uncertainty and test coverage.
+
+The static deployment allowlist includes the Aerospace Plan's production files and WebP assets. Source README and test files stay tracked for review and validation; the packaging helper excludes them and all QA harnesses. The Vercel configuration serves both `/official_aero_plan` and `/official_aero_plan/` while preserving the existing `/factory` rewrite. Shared-domain routing and the actual deployment result are managed separately.
 
 ## Keep a useful development history
 
@@ -83,4 +102,4 @@ GitHub associates contributions with an account's commit email and eligible bran
 
 ## Privacy and attribution
 
-The repository contains the public edition. Private source conversations, personal educational plans, deployment credentials, session logs, and browser learning records are excluded. Third-party talks remain attributed external embeds. The published Thiel launch film contains archival PBS footage and a Carpenter Brut track; those third-party materials are not covered by a blanket reuse license. See [attribution and reuse](docs/attribution.md).
+The repository contains the public edition. Private source conversations, personal educational records and notes, deployment credentials, session logs, and browser learning records are excluded. Third-party talks remain attributed external embeds. The published Thiel launch film contains archival PBS footage and a Carpenter Brut track; those third-party materials are not covered by a blanket reuse license. See [attribution and reuse](docs/attribution.md).

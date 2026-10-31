@@ -19,6 +19,7 @@ dialog{border:0;padding:0;background:var(--paper);color:var(--ink);width:min(730
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
 
 .reader-dark .site-header,.reader-dark .site-footer{--paper:#f3efe5;--ink:#0b1b22;--teal:#176f70}
+.main-nav a.aerospace-plan-link{color:var(--acid,#c9d69a);white-space:nowrap}.main-nav a.aerospace-plan-link:hover{color:var(--paper)}
 
 .lab-shell .lab-intro{display:none}
 

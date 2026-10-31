@@ -16,13 +16,15 @@ function modulesIn(directory) {
       const full = join(directory, entry.name);
       const rel = relative(publicRoot, full);
       if (isQaHarness(rel) || entry.name === 'node_modules') return [];
-      return entry.isDirectory() ? modulesIn(full) : entry.isFile() && entry.name.endsWith('.js') ? [full] : [];
+      return entry.isDirectory() ? modulesIn(full) : entry.isFile() && /\.(?:js|mjs)$/.test(entry.name) && !entry.name.endsWith('.test.mjs') ? [full] : [];
     });
 }
 const modules = modulesIn(publicRoot);
 if (!modules.length) throw new Error('No public JavaScript modules were found.');
 const suites = ['check_models.mjs', 'check_studio.mjs', 'check_curriculum.mjs', 'check_practice.mjs', 'check_backup.mjs', 'check_control.mjs', 'check_arcade.mjs', 'check_reels.mjs', 'check_expansion.mjs'];
-const jobs = [...modules.map(file => ['--check', file]), ...suites.map(file => [file])];
+const aerospaceSuites = ['engine.test.mjs', 'academic-integration.test.mjs', 'state-integration.test.mjs', 'labs.test.mjs']
+  .map(file => join('public', 'official_aero_plan', file));
+const jobs = [...modules.map(file => ['--check', file]), ...suites.map(file => [file]), ['--test', ...aerospaceSuites]];
 for (const args of jobs) {
   const result = spawnSync(process.execPath, args, {cwd: root, stdio: 'inherit'});
   if (result.error) {
@@ -34,4 +36,4 @@ for (const args of jobs) {
     process.exit(result.status || 1);
   }
 }
-console.log(`PASS: ${modules.length} public JavaScript modules and all nine v4 validation suites; QA harnesses excluded.`);
+console.log(`PASS: ${modules.length} public JavaScript modules, all nine v4 validation suites, and four aerospace suites; QA harnesses excluded.`);

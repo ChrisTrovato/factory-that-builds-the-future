@@ -6,9 +6,13 @@
 
 The site runs at the Vercel origin and behind the `/factory` path on ditchthescroll.com. The local preview server reproduces the path prefix. Routes after the prefix use hashes, such as `/factory/#/arcade/arm`.
 
+`public/official_aero_plan/` is an independent static companion at the canonical `https://www.christrovato.com/official_aero_plan` route. It has its own shell, hash navigation, academic/future/learning data and pure planning engine. The Factory navigation links to that canonical address. Exact Vercel rewrites serve its no-slash and trailing-slash entry points; existing Factory hash routes and IDs remain unchanged.
+
 ## Storage
 
 Local learning records use `factory-journey-v2`, `factory-reading`, `factory-projects-v1`, and `factory-practice-v1`. Export/restore merges the four record groups and preserves conflicting notes. Appearance preferences are separate. Arcade runs, control experiments, and expedition drafts are session work with export controls. No cloud synchronization is implied.
+
+The Aerospace Plan keeps a separate browser-local notebook for course records, scenarios, tasks, skills, projects, preferences and notes. Its validated JSON export/restore is independent of the Factory backup format. Hostnames and browser profiles do not share localStorage. The public repository contains research and application code, never an exported personal notebook. See its [maintenance guide](../public/official_aero_plan/README.md) before changing state schemas or academic data.
 
 ## Deployment
 
