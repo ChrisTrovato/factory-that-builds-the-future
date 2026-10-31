@@ -17,10 +17,10 @@ Open `http://127.0.0.1:4173/`. Keep the terminal running while previewing; stop 
 Run the rule and data tests:
 
 ```sh
-node --test engine.test.mjs academic-integration.test.mjs state-integration.test.mjs labs.test.mjs
+node --test engine.test.mjs academic-integration.test.mjs state-integration.test.mjs labs.test.mjs journey.test.mjs journey-content.test.mjs
 ```
 
-These tests cover planning rules and data integrity. They do not replace browser checks for navigation, keyboard use, mobile layout, storage errors, or export/import dialogs.
+These six files contain 59 tests covering planning rules, data integrity, complete subject journeys, course guides, GE alternatives, project connections and effort estimates. They do not replace browser checks for navigation, keyboard use, mobile layout, storage errors, or export/import dialogs.
 
 ## File responsibilities
 

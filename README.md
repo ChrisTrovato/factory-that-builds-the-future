@@ -6,6 +6,8 @@ An interactive engineering learning world that connects the math on a worksheet 
 
 **[Open the Aerospace Plan](https://www.christrovato.com/official_aero_plan)** — a companion for the Southwestern-to-UC San Diego journey, course planning, engineering projects, study habits, specialization choices, and problems worth solving in 2035 and beyond. Its source lives at [public/official_aero_plan](public/official_aero_plan/README.md); academic evidence is dated October 31, 2026 and must be refreshed for the applicable future year.
 
+The revised Aerospace Plan connects **111 course guides through seven subject paths**, from arithmetic and algebra preparation through university design. A shared example journey includes named GE choices, UCSD college reference cases and **20 technical-elective guides**. MATH 104 and noncredit foundations remain visible as useful preparation; enrollment workload and accepted transfer credit are kept separate. Example routes never mark personal records completed.
+
 ![The Factory: from equations to orbital machinery](docs/screenshots/site-home.png)
 
 ## What you can do
@@ -37,12 +39,12 @@ The Aerospace Plan is available at **http://127.0.0.1:8777/official_aero_plan/**
 npm run check
 ```
 
-The check runner validates the public JavaScript modules, **nine Factory suites and four Aerospace Plan suites**, including model calculations, energy accounting, rover solutions, inverse geometry, keyboard/lifecycle behavior, content references, backup handling, articulation logic, units, and educational simulations. No npm dependencies need to be installed.
+The check runner validates **32 public JavaScript modules, nine Factory suites and six Aerospace Plan suites (59 tests)**, including model calculations, energy accounting, rover solutions, inverse geometry, keyboard/lifecycle behavior, content references, backup handling, articulation logic, GE constraints, course ordering, units, and educational simulations. No npm dependencies need to be installed.
 
 To run only the Aerospace Plan suites:
 
 ```sh
-node --test public/official_aero_plan/engine.test.mjs public/official_aero_plan/academic-integration.test.mjs public/official_aero_plan/state-integration.test.mjs public/official_aero_plan/labs.test.mjs
+node --test public/official_aero_plan/*.test.mjs
 ```
 
 ## For reviewers and employers
@@ -77,11 +79,11 @@ See [architecture and deployment](docs/architecture.md) for storage, route behav
 
 ## Maintain the Aerospace Plan
 
-Public academic content is separate from personal course records, notes and scenarios. The app saves those entries in the current browser's localStorage; they are not uploaded or synchronized across devices, browsers or hostnames. Use **Progress & backup** to export JSON before clearing storage or changing devices. Review the import preview before replacing a notebook, and keep exported personal records out of Git.
+Public academic content is separate from personal course records, notes and scenarios. The app saves those entries in the current browser's localStorage; they are not uploaded or synchronized across devices, browsers or hostnames. Open **More → Notebook & backup** (or the footer's **Progress & backup**) to export JSON before clearing storage or changing devices. Review the import preview before replacing a notebook, and keep exported personal records out of Git. The revision preserves schema 1 backups, existing notes, saved scenarios and course statuses; optional learning markers do not establish official credit.
 
-Update institutional facts in `public/official_aero_plan/academic-data.mjs`, future research and project content in `future-data.mjs`, and learning guidance in `learning-content.mjs`. Preserve course aliases, stable IDs, source dates and AND/OR articulation relationships. Recheck admissions for the application cycle, ASSIST for the actual course year, and offerings before registration; a historical transfer grid is not a future schedule or official degree audit. The [Aerospace Plan maintenance guide](public/official_aero_plan/README.md) documents schemas, uncertainty and test coverage.
+Update institutional facts in `public/official_aero_plan/academic-data.mjs`, `swc-journey.mjs` and `ucsd-journey.mjs`. The shared `journey-model.mjs` connects course guides, subject paths, GE selections and example terms; `journey-ui.mjs` renders those views. Future research and project content remain in `future-data.mjs`, and study guidance in `learning-content.mjs`. Preserve course aliases, stable IDs, source dates and AND/OR articulation relationships. Recheck admissions for the application cycle, ASSIST for the actual course year, and offerings before registration; a historical transfer grid is not a future schedule or official degree audit. The [Aerospace Plan maintenance guide](public/official_aero_plan/README.md) documents schemas, uncertainty and test coverage.
 
-The static deployment allowlist includes the Aerospace Plan's production files and WebP assets. Source README and test files stay tracked for review and validation; the packaging helper excludes them and all QA harnesses. The Vercel configuration serves both `/official_aero_plan` and `/official_aero_plan/` while preserving the existing `/factory` rewrite. Shared-domain routing and the actual deployment result are managed separately.
+The static deployment allowlist includes **18 Aerospace Plan production assets**, including its modules, styles and WebP images. Source README and test files stay tracked for review and validation; the packaging helper excludes them and all QA harnesses. The Vercel configuration serves both `/official_aero_plan` and `/official_aero_plan/` while preserving the existing `/factory` rewrite. Shared-domain routing and the actual deployment result are managed separately; see the [release record](docs/aerospace-release.md).
 
 ## Keep a useful development history
 

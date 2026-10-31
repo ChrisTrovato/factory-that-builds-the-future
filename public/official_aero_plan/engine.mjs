@@ -3,7 +3,11 @@ export const SCHEMA_VERSION = 1;
 export const COURSE_STATUSES = Object.freeze(['considering', 'planned', 'enrolled', 'completed', 'withdrawn', 'repeating', 'unknown']);
 const plannedStatuses = new Set(['planned', 'enrolled', 'repeating']);
 const gradePoints = { 'A+': 4, A: 4, 'A-': 3.7, 'B+': 3.3, B: 3, 'B-': 2.7, 'C+': 2.3, C: 2, 'C-': 1.7, 'D+': 1.3, D: 1, 'D-': 0.7, F: 0, NP: 0, NC: 0, W: 0, I: null, P: null, CR: null };
-const aliasMap = new Map([['MATH 250', 'MATH C2210'], ['MATH 251', 'MATH C2220']]);
+const aliasMap = new Map([
+  ['MATH 250', 'MATH C2210'], ['MATH 251', 'MATH C2220'],
+  ['ENGL 115', 'ENGL C1000'], ['ENGL 116', 'ENGL C1001'], ['COMM 104', 'COMM C1000'],
+  ['NC 146', 'NC 143'],
+]);
 const seasons = { winter: 0, spring: 1, summer: 2, fall: 3 };
 
 export function normalizeCode(value) {
@@ -100,7 +104,7 @@ export function calculateRequirements(records = [], mappings = []) {
 
 export function earnedUnits(records = [], courses = []) {
   const catalog = courseIndex(courses);
-  const totals = { semester: 0, quarter: 0, unverifiedSemester: 0, unverifiedQuarter: 0, unknownCodes: [], countedCodes: [] };
+  const totals = { semester: 0, quarter: 0, unverifiedSemester: 0, unverifiedQuarter: 0, noncreditCourses: [], unknownCodes: [], countedCodes: [] };
   const groups = new Map();
   for (const record of records) {
     const code = normalizeCode(record.code);
@@ -110,6 +114,10 @@ export function earnedUnits(records = [], courses = []) {
   for (const [code, attempts] of groups) {
     const course = catalog.get(code);
     if (!course || !Number.isFinite(course.units)) { totals.unknownCodes.push(code); continue; }
+    if (course.unitSystem === 'noncredit' || course.transferability === 'noncredit' || /^NC\s/.test(code)) {
+      if (attempts.some(record => record.status === 'completed')) totals.noncreditCourses.push(code);
+      continue;
+    }
     const system = course.unitSystem || 'semester';
     if (!['semester', 'quarter'].includes(system)) { totals.unknownCodes.push(code); continue; }
     // Deduplication is by actual course identity, not by destination mappings or attempts.
@@ -297,6 +305,9 @@ export function validateBackup(payload) {
       if (prefs.interests !== undefined && (!plainObject(prefs.interests) || Object.values(prefs.interests).some(item => typeof item !== 'string'))) errors.push('preferences.interests must be an object of text values.');
       if (prefs.plan !== undefined) validatePlanInputShape(prefs.plan, 'preferences.plan', errors);
       if (prefs.fontSize !== undefined && (typeof prefs.fontSize !== 'number' || !Number.isFinite(prefs.fontSize))) errors.push('preferences.fontSize must be a finite number.');
+      if (prefs.geChoices !== undefined && (!plainObject(prefs.geChoices) || Object.values(prefs.geChoices).some(item => typeof item !== 'string' || item.length > 60))) errors.push('preferences.geChoices must map requirement slots to course-code text.');
+      for (const key of ['collegeScenario', 'mathRoute', 'diffRoute']) if (prefs[key] !== undefined && (typeof prefs[key] !== 'string' || prefs[key].length > 100)) errors.push(`preferences.${key} must be text of at most 100 characters.`);
+      if (prefs.showProgress !== undefined && typeof prefs.showProgress !== 'boolean') errors.push('preferences.showProgress must be true or false.');
     }
     if (value.exportedAt !== undefined && (typeof value.exportedAt !== 'string' || !Number.isFinite(Date.parse(value.exportedAt)))) errors.push('exportedAt must be a valid date string.');
     if (Array.isArray(value.courseRecords)) {
